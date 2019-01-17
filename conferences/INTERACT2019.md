@@ -45,7 +45,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 We welcome submissions including, but not limited to, the following themes:
 
 
-Methods and Tools for Interface and Interaction Design, Modelling, and Evaluation including:
+### Methods and Tools for Interface and Interaction Design, Modelling, and Evaluation including:
 
 - Accessibility  
 - Affective HCI, Emotion, Motivational Aspects  
@@ -60,14 +60,14 @@ Methods and Tools for Interface and Interaction Design, Modelling, and Evaluatio
 - User Experience-Based Approaches  
 - Visualisation Techniques
 
-Cross-Cultural and Social Issues including:
+### Cross-Cultural and Social Issues including:
 
 - Developing Local Content or Interaction Design Capacity  
 - ICT in Social Development - Interaction Design for Developing Regions  
 - International and Cultural Aspects of HCI  
 - HCI for Offshore Software Development
 
-Specific Application Areas including:
+### Specific Application Areas including:
 
 - Adaptive Interfaces
 - Augmented Reality and Tangible User Interfaces
