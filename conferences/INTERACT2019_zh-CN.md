@@ -57,14 +57,14 @@ We invite you to submit your original work to the conference. The proceedings wi
 - User Experience-Based Approaches  
 - Visualisation Techniques
 
-### Cross-Cultural and Social Issues including:
+### 跨文化和社会问题，包括：:
 
-- Developing Local Content or Interaction Design Capacity  
-- ICT in Social Development - Interaction Design for Developing Regions  
-- International and Cultural Aspects of HCI  
-- HCI for Offshore Software Development
+- 开发本地内容或交互设计能力
+- 社会发展中的信息和通信技术-发展中国家的互动设计
+- HCI的国际和文化方面
+- 用于离岸软件开发的HCI
 
-### Specific Application Areas including:
+### 具体应用领域，包括：
 
 - Adaptive Interfaces
 - Augmented Reality and Tangible User Interfaces
