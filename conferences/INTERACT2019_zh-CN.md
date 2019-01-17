@@ -58,7 +58,6 @@ We invite you to submit your original work to the conference. The proceedings wi
 - Visualisation Techniques
 
 ### 跨文化和社会问题，包括：:
-
 - 开发本地内容或交互设计能力
 - 社会发展(social development)中的信息和通信技术(ICT)-发展中国家的互动设计
 - HCI的国际和文化方面
@@ -94,7 +93,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 
 We invite submissions of short papers for publication in the conference proceedings. Papers may address any area of HCI, including but not limited to:
 
-* Methods and Tools for Interface and Interaction Design, Modelling, and Evaluation including: 
+### 界面和交互（Interface and Interaction）之设计丶建模和评估（Design, Modelling, and Evaluation）所用的方法和工具，包括：
     * Accessibility
     * Affective HCI, Emotion, Motivational Aspects
     * Evaluation Methods / Usability Evaluation
@@ -107,12 +106,12 @@ We invite submissions of short papers for publication in the conference proceedi
     * User Modelling
     * User Experience-Based Approaches
     * Visualisation Techniques
-* Cross-Cultural and Social Issues including: 
-    * Developing Local Content or Interaction Design Capacity
-    * ICT in Social Development - Interaction Design for Developing Regions
-    * International and Cultural Aspects of HCI
-    * HCI for Offshore Software Development
-* Specific Application Areas including: 
+### 跨文化和社会问题，包括：:
+- 开发本地内容或交互设计能力
+- 社会发展(social development)中的信息和通信技术(ICT)-发展中国家的互动设计
+- HCI的国际和文化方面
+- 用于离岸软件开发的HCI
+### 具体应用领域，包括：
     * Adaptive Interfaces
     * Augmented Reality and Tangible User Interfaces
     * Child-Computer Interfaces
