@@ -94,23 +94,25 @@ We invite you to submit your original work to the conference. The proceedings wi
 We invite submissions of short papers for publication in the conference proceedings. Papers may address any area of HCI, including but not limited to:
 
 ### 界面和交互（Interface and Interaction）之设计丶建模和评估（Design, Modelling, and Evaluation）所用的方法和工具，包括：
-    * Accessibility
-    * Affective HCI, Emotion, Motivational Aspects
-    * Evaluation Methods / Usability Evaluation
-    * Human Factors
-    * Human Error and Safety
-    * Mobility / Mobile Accessibility / Mobile Devices
-    * Model- Based Design of Interactive Systems
-    * Tools for Design, Modelling, Evaluation
-    * Usability and Software / Enterprise Engineering
-    * User Modelling
-    * User Experience-Based Approaches
-    * Visualisation Techniques
+- 无障碍设计（Accessibility，或译可近性或可及性) 
+- 情感化人机交互（Affective HCI）、情感、动机方面
+- 评估方法　/　可用性评估 （Usability Evaluation）
+- 人的因素
+- 人为错误和安全
+- 移动　/　移动无障碍设计（Mobile Accessibility）　/　移动设备
+- 基于模型的交互系统设计  
+- 设计、建模、评估工具  
+- 可用性 （Usability）和 软件 / 企业工程 
+- 用户建模（User Modelling） 
+- 基于用户体验的方法 
+- 可视化技术
+
 ### 跨文化和社会问题，包括：:
 - 开发本地内容或交互设计能力
 - 社会发展(social development)中的信息和通信技术(ICT)-发展中国家的互动设计
 - HCI的国际和文化方面
 - 用于离岸软件开发的HCI
+
 ### 具体应用领域，包括：
     * Adaptive Interfaces
     * Augmented Reality and Tangible User Interfaces
