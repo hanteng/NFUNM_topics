@@ -44,7 +44,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 
 我们欢迎提交的材料，包括但不限于以下主题：
 
-接口和交互设计、建模和评估的方法和工具，包括：
+界面和交互（Interface and Interaction）之设计丶建模和评估（Design, Modelling, and Evaluation）所用的方法和工具，包括：
 
 - Accessibility  
 - Affective HCI, Emotion, Motivational Aspects  
