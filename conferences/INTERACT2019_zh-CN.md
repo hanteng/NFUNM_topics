@@ -4,7 +4,7 @@
   * [CFP, 短论文](#CFP-短论文)
 
 ## 欢迎来到Interact2019
-[Source](http://interact2019.org/)
+[原网页](http://interact2019.org/)
 
 第17届IFIP TC.13人机交互国际会议将于2019年9月2日至6日在塞浦路斯帕福斯举行。
 
@@ -35,7 +35,7 @@ INTERACT 交互会议是人机交互领域的研究者和实践者展示其工�
 
 ## CFP
 
-[Source](http://interact2019.org/calls/)
+[原网页](http://interact2019.org/calls/)
 
 INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主题(tracks)。
 
@@ -91,7 +91,7 @@ INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主�
 -----
 
 ## CFP, 短论文
-[Source](http://interact2019.org/calls/short-papers/)
+[原网页](http://interact2019.org/calls/short-papers/)
 
 我们邀请提交短论文, 以便在会议论文集中发表。论文可涉及人机交互HCI的任何领域, 包括但不限于:
 
