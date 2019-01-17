@@ -45,7 +45,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 ### 界面和交互（Interface and Interaction）之设计丶建模和评估（Design, Modelling, and Evaluation）所用的方法和工具，包括：
 
 - 无障碍设计（Accessibility，或译可近性或可及性) 
-- Affective HCI, Emotion, Motivational Aspects  
+- 情感化人机交互（Affective HCI）、情感、动机方面
 - Evaluation Methods / Usability Evaluation  
 - Human Factors  
 - Human Error and Safety  
