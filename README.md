@@ -25,7 +25,7 @@
 
 ## 编辑建议
 
-参考此项目最早的[Commit编辑记录]
+参考此项目最早的[Commit编辑记录](https://github.com/hanteng/NFUNM_topics/commits/master)
 
 1. (原文)在对映的目录建立markdown原文文件，如
    * Create INTERACT2019.md[5c3ecc9](https://github.com/hanteng/NFUNM_topics/commit/5c3ecc92ef4826e00a381203ccfbd4976973bb16)
