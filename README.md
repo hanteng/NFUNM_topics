@@ -7,7 +7,18 @@
 * [博览会](expo)：包括消费者博览会（consumer fairs）及行业交易会（trade fairs, trade exhibitions, trade shows）
 行业交易会，指让行业公司展示其最新的产品和服务的组织活动，前者向公众开放，後者则可能限定行业成员和新闻界成员参加。
 * [研讨会](conferences)：包括学术会议（academic conferences）丶研讨会（symposiums）丶及工作坊（workshops），指让研究人员（包括企业及行业的研究者，不仅是科研人员）发表和讨论他们的工作成品。
-  * [INTERACT 2019 (中译)](./conferences/INTERACT2019_zh-CN.md)，[原文](./conferences/INTERACT2019.md)
+  * [INTERACT 2019 (中译)](./conferences/INTERACT2019_zh-CN.md)，[原文](./conferences/INTERACT2019.md)，來源：
+    - [x] [A. call for short papers](http://interact2019.org/calls/short-papers/)、
+	- [ ] [B. call for interactive posters](http://interact2019.org/calls/interactive-posters/)
+	- [ ] [C. call for panels](http://interact2019.org/calls/panels/)
+  * [MOBILEHCI 2019 (中译)](./conferences/MOBILEHCI2019_zh-CN.md)，[原文](./conferences/MOBILEHCI2019.md)，來源：
+    - [ ][A. call for papers](https://mobilehci.acm.org/2019/call-for-papers/)、
+	- [ ][B. call for workshops](https://mobilehci.acm.org/2019/call-for-workshops/)
+  * [SIGDOC 2019 中译)](./conferences/SIGDOC2019_zh-CN.md)，[原文](./conferences/SIGDOC2019.md) ，來源：
+    - [ ][Call for Proposals](https://sigdoc.acm.org/conference/2019/call-for-proposals/)
+  * [ACM HYPERTEXT 2019 中译)](./conferences/HYPERTEXT2019_zh-CN.md)，[原文](./conferences/HYPERTEXT2019.md)，來源：
+    - [ ][ACM HYPERTEXT 2019](https://human.iisys.de/ht2019/call-for-papers/)
+	
 * [期刊](journals)：旨在通过报道新研究来推动科学进步的学术出版。
 
 ## 编辑建议
