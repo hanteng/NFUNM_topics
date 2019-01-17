@@ -77,7 +77,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 - 人与机器人的交互
 - 人机交互设计
 - 与小型或大型显示器的交互
-- 多模态接口
+- 多模态(用户)界面（Multi-Modal Interfaces)
 - 多用户交互/合作
 - 新的用户界面和交互技术
 - 社交媒体/社交网络
