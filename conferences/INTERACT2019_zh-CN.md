@@ -10,7 +10,7 @@
 
 INTERACT 交互会议是人机交互领域的研究者和实践者展示其工作的重要平台。多年来，这些会议吸引了来自几个国家和文化的研究人员。
 
-IFIP – International Federation for Information Processing
+国际信息处理联合会  （缩写IFIP, International Federation for Information Processing）
 ----------------------------------------------------------
 
 IFIP is the leading multinational, apolitical organization in Information & Communications Technologies and Sciences, recognized by United Nations and other world bodies. It represents IT Societies from 56 countries/regions, covering five continents with a total membership of over half a million, and links more than 3500 scientists from Academia & Industry. Over 100 Working Groups and 13 Technical Committees.
