@@ -166,9 +166,9 @@ INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主�
 
 短论文可选择附加档案大小超过 30 MB 的视频。视频数据将在网上公布, 并可用于宣传。
 
-#### **Submission**
+#### 论文提交
 
-Submissions are accepted via PCS. To start the process or create an account [click here][3].
+论文提交使用PCS。启动提交流程或创建帐号，[点此处][3].
 
 [1]: mailto:shortpapers%40interact2019.org
 [2]: https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0
