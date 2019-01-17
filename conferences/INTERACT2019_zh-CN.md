@@ -46,12 +46,12 @@ We invite you to submit your original work to the conference. The proceedings wi
 
 - 无障碍设计（Accessibility，或译可近性或可及性) 
 - 情感化人机交互（Affective HCI）、情感、动机方面
-- Evaluation Methods / Usability Evaluation  
-- Human Factors  
-- Human Error and Safety  
-- Mobility / Mobile Accessibility / Mobile Devices  
-- Model- Based Design of Interactive Systems  
-- Tools for Design, Modelling, Evaluation  
+- 评估方法　/　可用性评估 （Usability Evaluation）
+- 人的因素
+- 人为错误和安全
+- 移动　/　移动无障碍设计（Mobile Accessibility）　/　移动设备
+- 基于模型的交互系统设计  
+- 设计、建模、评估工具  
 - Usability and Software / Enterprise Engineering  
 - User Modelling  
 - User Experience-Based Approaches  
