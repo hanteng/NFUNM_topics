@@ -38,7 +38,7 @@ An island drenched in sun and mythology, at the crossroads of ancient civilizati
 
 INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主题(tracks)。
 
-我们邀请您将您的原创作品提交给会议。根据个别会议分主题细节中提到的规则, 会议论文将在 [Springer LNCS Series](http://www.springer.com/series/558) 发表。INTERACT 2019 是一次国际会议, 所有提交的材料都将由一个国际专家小组进行同行审查。正式会议语言为英语, 所有提交的材料必须为英语。
+我们邀请您将您的原创作品提交给会议。根据个别会议分主题细节中提到的规则, 会议论文将在 [Springer LNCS Series](http://www.springer.com/series/558) 发表。INTERACT 2019 是一次国际会议，所有提交论文将由国际专家小组进行同行审查。正式会议语言为英语，所有提交的材料必须为英语。
 
 我们欢迎提交的材料，包括但不限于以下主题：
 
@@ -139,9 +139,9 @@ INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主�
 - 安全关键系统的用户界面
 - Web应用程序、电子政务的用户界面
 
-Submissions should report original work and must not have been published previously.
+提交论文的材料应报告原创且尚未发表之作品。
 
-Authors are encouraged to submit late-breaking research results and work in progress that show timely and innovative ideas. All short paper submissions will be peer-reviewed by an international panel of experts. The review process will retain the anonymity of authors and reviewers.
+鼓励作者提交, 显示及时和创新想法的最新研究成果和正在进行的工作 (work in progress)。所有提交论文将由国际专家小组进行同行审查。审查过程，作者和审查人员的保持匿名。
 
 #### **Quick Info**
 
