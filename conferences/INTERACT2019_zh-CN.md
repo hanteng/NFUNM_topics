@@ -10,10 +10,10 @@
 
 INTERACT 交互会议是人机交互领域的研究者和实践者展示其工作的重要平台。多年来，这些会议吸引了来自几个国家和文化的研究人员。
 
-国际信息处理联合会  （缩写IFIP, International Federation for Information Processing）
+国际信息处理联合会
 ----------------------------------------------------------
 
-IFIP is the leading multinational, apolitical organization in Information & Communications Technologies and Sciences, recognized by United Nations and other world bodies. It represents IT Societies from 56 countries/regions, covering five continents with a total membership of over half a million, and links more than 3500 scientists from Academia & Industry. Over 100 Working Groups and 13 Technical Committees.
+国际信息处理联合会 （缩写IFIP, International Federation for Information Processing）是联合国和其他世界机构认可的领先的信息和通信技术及科学的跨国非政治组织。它代表了来自56个国家/地区的信息技术社会，覆盖五大洲，会员总数超过50万，并与来自学术界和工业界的3500多名科学家建立了联系。100多个工作组和13个技术委员会。
 
 Organizing Institution: Cyprus University of Technology
 -------------------------------------------------------
