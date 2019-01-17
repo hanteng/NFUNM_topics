@@ -52,10 +52,10 @@ We invite you to submit your original work to the conference. The proceedings wi
 - 移动　/　移动无障碍设计（Mobile Accessibility）　/　移动设备
 - 基于模型的交互系统设计  
 - 设计、建模、评估工具  
-- Usability and Software / Enterprise Engineering  
-- User Modelling  
-- User Experience-Based Approaches  
-- Visualisation Techniques
+- 可用性 （Usability）和 软件 / 企业工程 
+- 用户建模（User Modelling） 
+- 基于用户体验的方法 
+- 可视化技术
 
 ### 跨文化和社会问题，包括：:
 - 开发本地内容或交互设计能力
