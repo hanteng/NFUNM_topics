@@ -68,7 +68,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 
 - 自适应界面（Adaptive Interfaces）
 - 增强现实（AR, Augmented Reality) 和 实体用户界面（TUI, Tangible User Interfaces)
-- 子计算机接口
+- 儿童计算机界面（Child-Computer Interfaces)
 - 上下文相关系统
 - 终端用户开发和适应
 - 趣味/美学设计
