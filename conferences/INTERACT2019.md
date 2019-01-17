@@ -1,7 +1,7 @@
 # INTERACT2019
   * [Welcome to](#Welcome-to-INTERACT2019)
   * [CFP](#CFP)
-  * [CFP, short papers](#CFP--short-papers)
+  * [CFP, short papers](#CFP-short-papers)
 
 ## Welcome to INTERACT2019
 [Source](http://interact2019.org/)
