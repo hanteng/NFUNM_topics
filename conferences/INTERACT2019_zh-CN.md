@@ -81,9 +81,9 @@ We invite you to submit your original work to the conference. The proceedings wi
 - 多用户交互/合作
 - 新的用户界面和交互技术
 - 社交媒体/社交网络
-- 可用的隐私和安全
+- 可用的隐私和安全(Usable Privacy and Security)
 - 医疗技术
-- 无所不在和上下文感知计算
+- 普适计算(Ubiquitous Computing)和上下文感知计算(Context-Aware Computing)
 - 安全关键系统的用户界面
 - 用于Web应用程序、电子政务的用户界面
 
