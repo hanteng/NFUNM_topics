@@ -26,10 +26,10 @@ INTERACT 交互会议是人机交互领域的研究者和实践者展示其工�
 
 为了为社会做出更大的贡献, 大学制定了成为爱沙尼亚智能生活方式(intelligent lifestyle)促进者的目标。塔林大学将智能生活方式论诠释为作出基于研究的决定, 以改善社会大众和公民的福祉/安适状态(well-being)。
 
+### 塞浦路斯
 
-### Cyprus
-
-An island drenched in sun and mythology, at the crossroads of ancient civilizations. 9,000 years of history gathered together on one island. Cyprus packs a remarkable array of sights and attractions, museums and archaeological parks, throbbing beach resorts, pine covered mountains, medieval fortresses and ancient temples. The remarkably rich legacy in archaeological treasures and highly developed infrastructure, make Cyprus one of the most attractive meeting places of the world.
+塞浦路斯(Cyprus)，一个被太阳和神话浸透的岛屿，是古代多个文明交汇处。岛上有9000
+9000多年的历史聚集。塞浦路斯有一系列引人注目的景点丶博物馆和考古公园丶有活力的海滩度假村丶松树覆盖的山脉丶中世纪的堡垒和古老的寺庙。考古珍品和高度发达的基础设施, 使塞浦路斯在世界上最具吸引力的会议场所之一。
 
 -----
 
