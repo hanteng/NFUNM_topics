@@ -85,7 +85,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 - 医疗技术
 - 普适计算(Ubiquitous Computing)和上下文感知计算(Context-Aware Computing)
 - 安全关键系统的用户界面
-- 用于Web应用程序、电子政务的用户界面
+- Web应用程序、电子政务的用户界面
 
 -----
 
@@ -95,6 +95,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 We invite submissions of short papers for publication in the conference proceedings. Papers may address any area of HCI, including but not limited to:
 
 ### 界面和交互（Interface and Interaction）之设计丶建模和评估（Design, Modelling, and Evaluation）所用的方法和工具，包括：
+
 - 无障碍设计（Accessibility，或译可近性或可及性) 
 - 情感化人机交互（Affective HCI）、情感、动机方面
 - 评估方法　/　可用性评估 （Usability Evaluation）
@@ -108,33 +109,35 @@ We invite submissions of short papers for publication in the conference proceedi
 - 基于用户体验的方法 
 - 可视化技术
 
-### 跨文化和社会问题，包括：:
+### 跨文化和社会问题，包括：
+
 - 开发本地内容或交互设计能力
 - 社会发展(social development)中的信息和通信技术(ICT)-发展中国家的互动设计
 - HCI的国际和文化方面
 - 用于离岸软件开发的HCI
 
 ### 具体应用领域，包括：
-    * Adaptive Interfaces
-    * Augmented Reality and Tangible User Interfaces
-    * Child-Computer Interfaces
-    * Context- Dependent Systems
-    * End-User Development and Adaptation
-    * Fun / Aesthetic Design
-    * HCI and Web 2.0
-    * HCI Education
-    * Human-Robot Interaction
-    * Human-Work Interaction Design
-    * Interaction with Small or Large Displays
-    * Multi-Modal Interfaces
-    * Multi-User Interaction / Cooperation
-    * Novel User Interfaces and Interaction Techniques
-    * Social Media / Social Networks
-    * Usable Privacy and Security
-    * Technology in Healthcare
-    * Ubiquitous and Context-Aware Computing
-    * User Interfaces for Safety Critical Systems
-    * User Interfaces for Web Applications, e-Government
+
+- 自适应界面（Adaptive Interfaces）
+- 增强现实（AR, Augmented Reality) 和 实体用户界面（TUI, Tangible User Interfaces)
+- 儿童计算机界面（Child-Computer Interfaces)
+- 上下文相关系统(Context-Dependent Systems)
+- 终端用户开发和适应(End-User Development and Adaptation)
+- 趣味/美学设计
+- HCI和Web 2.0
+- HCI教育
+- 人与机器人的交互
+- 人机交互设计
+- 与小型或大型显示器的交互
+- 多模态(用户)界面（Multi-Modal Interfaces)
+- 多用户交互/合作
+- 新的用户界面和交互技术
+- 社交媒体/社交网络
+- 可用的隐私和安全(Usable Privacy and Security)
+- 医疗技术
+- 普适计算(Ubiquitous Computing)和上下文感知计算(Context-Aware Computing)
+- 安全关键系统的用户界面
+- Web应用程序、电子政务的用户界面
 
 Submissions should report original work and must not have been published previously.
 
