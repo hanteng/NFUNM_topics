@@ -69,12 +69,12 @@ We invite you to submit your original work to the conference. The proceedings wi
 - 自适应界面（Adaptive Interfaces）
 - 增强现实（AR, Augmented Reality) 和 实体用户界面（TUI, Tangible User Interfaces)
 - 儿童计算机界面（Child-Computer Interfaces)
-- 上下文相关系统
-- 终端用户开发和适应
+- 上下文相关系统(Context-Dependent Systems)
+- 终端用户开发和适应(End-User Development and Adaptation)
 - 趣味/美学设计
 - HCI和Web 2.0
 - HCI教育
-- 人机交互
+- 人与机器人的交互
 - 人机交互设计
 - 与小型或大型显示器的交互
 - 多模态接口
