@@ -20,11 +20,11 @@ The Cyprus University of Technology aspires to develop itself into a modern, pio
 
 With its orientation towards applied research, the University aims to establish for itself a role in support of the state and society in their efforts to confront problems, which cover all areas of science and technology.
 
-### Tallinn University
+### 塔林大学
+塔林大学(Tallinn University)是塔林最大的人文大学，也是爱沙尼亚第三大公立大学, 拥有7500多名学生和800多名员工，其中包括近400名研究人员和教师。
 
-Tallinn University is the largest university of humanities in Tallinn and the third biggest public university in Estonia, with more than 7,500 students and over 800 employees, including nearly 400 researchers and lecturers.
+为了为社会做出更大的贡献, 大学制定了成为爱沙尼亚智能生活方式(intelligent lifestyle)促进者的目标。塔林大学将智能生活方式论诠释为作出基于研究的决定, 以改善社会大众和公民的福祉/安适状态(well-being)。
 
-Wishing to contribute more to the society, the University has set a goal to become the promoter of intelligent lifestyle in Estonia. Tallinn University interprets intelligent lifestyle as making research-based decisions in order to improve the society in general and the well-being of its citizens.
 
 ### Cyprus
 
