@@ -36,9 +36,9 @@ An island drenched in sun and mythology, at the crossroads of ancient civilizati
 
 [Source](http://interact2019.org/calls/)
 
-INTERACT 交互会议邀请所有各方积极與会，参加各种会议分主题(tracks)。
+INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主题(tracks)。
 
-我们邀请您将您的原創作品提交给会议。根据个别会议分主题细节中提到的规则, 会议論文将在 [Springer LNCS Series](http://www.springer.com/series/558) 發表。INTERACT 2019 是一次国际会议, 所有提交的材料都将由一个国际专家小组进行同行审查。正式会议语言为英语, 所有提交的材料必须为英语。
+我们邀请您将您的原创作品提交给会议。根据个别会议分主题细节中提到的规则, 会议论文将在 [Springer LNCS Series](http://www.springer.com/series/558) 发表。INTERACT 2019 是一次国际会议, 所有提交的材料都将由一个国际专家小组进行同行审查。正式会议语言为英语, 所有提交的材料必须为英语。
 
 我们欢迎提交的材料，包括但不限于以下主题：
 
@@ -92,7 +92,7 @@ INTERACT 交互会议邀请所有各方积极與会，参加各种会议分主�
 ## CFP, 短论文
 [Source](http://interact2019.org/calls/short-papers/)
 
-We invite submissions of short papers for publication in the conference proceedings. Papers may address any area of HCI, including but not limited to:
+我们邀请提交短论文, 以便在会议论文集中发表。论文可涉及人机交互HCI的任何领域, 包括但不限于:
 
 ### 界面和交互（Interface and Interaction）之设计丶建模和评估（Design, Modelling, and Evaluation）所用的方法和工具，包括：
 
