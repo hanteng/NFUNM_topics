@@ -42,17 +42,17 @@
 若有其它更好工具，可以补充
 
 1. HTML to Markdown
-  * 输入URL直接得markdown[http://heckyesmarkdown.com/](http://heckyesmarkdown.com/)
-  * 先使用Chrome Inspector挑出欲拷贝元素，鼠标右键点选Copy-->Copy outerHTML，再来
-    * 输入HTML得markdown[https://tool.lu/markdown/](https://tool.lu/markdown/)
-    * 输入HTML得markdown[https://www.browserling.com/tools/html-to-markdown](https://www.browserling.com/tools/html-to-markdown)
+   * 输入URL直接得markdown[http://heckyesmarkdown.com/](http://heckyesmarkdown.com/)
+   * 先使用Chrome Inspector挑出欲拷贝元素，鼠标右键点选Copy-->Copy outerHTML，再来
+      * 输入HTML得markdown[https://tool.lu/markdown/](https://tool.lu/markdown/)
+      * 输入HTML得markdown[https://www.browserling.com/tools/html-to-markdown](https://www.browserling.com/tools/html-to-markdown)
 2. 翻译工具：
-  * [http://translator.bing.com](http://translator.bing.com)
-  * [https://fanyi.baidu.com/](https://fanyi.baidu.com/)
-  * [http://translate.google.com/](http://translate.google.com/)
+   * [http://translator.bing.com](http://translator.bing.com)
+   * [https://fanyi.baidu.com/](https://fanyi.baidu.com/)
+   * [http://translate.google.com/](http://translate.google.com/)
 3. 术语工具：
-  * [CNKI 词典](http://kns.cnki.net/kns/brief/result.aspx?dbprefix=CRDD)
-  * [CNKI 百科](http://kns.cnki.net/kns/brief/result.aspx?dbprefix=CRPD)
-  * [国家教育研究院（ＴＷ）](http://terms.naer.edu.tw/)
+   * [CNKI 词典](http://kns.cnki.net/kns/brief/result.aspx?dbprefix=CRDD)
+   * [CNKI 百科](http://kns.cnki.net/kns/brief/result.aspx?dbprefix=CRPD)
+   * [国家教育研究院（ＴＷ）](http://terms.naer.edu.tw/)
   
   
