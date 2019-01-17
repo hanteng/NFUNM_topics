@@ -42,10 +42,9 @@ INTERACT 2019 invites all to be a part of the conference by actively participati
 
 We invite you to submit your original work to the conference. The proceedings will be published in [Springer LNCS Series](http://www.springer.com/series/558), as per the rules mentioned in the individual track details. INTERACT 2019 is an international conference and all submissions will be peer-reviewed by an international panel of experts. The official conference language is English, and all submissions must be in English.
 
-We welcome submissions including, but not limited to, the following themes:
+我们欢迎提交的材料，包括但不限于以下主题：
 
-
-Methods and Tools for Interface and Interaction Design, Modelling, and Evaluation including:
+接口和交互设计、建模和评估的方法和工具，包括：
 
 - Accessibility  
 - Affective HCI, Emotion, Motivational Aspects  
