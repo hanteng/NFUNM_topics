@@ -10,29 +10,27 @@ The 17th IFIP TC.13 International Conference on Human-Computer Interaction – I
 
 INTERACT conferences are an important platform for researchers and practitioners in the field of human-computer interaction (HCI) to showcase their work. Over the years, the conferences have attracted researchers from several countries and cultures.
 
-IFIP – International Federation for Information Processing
-----------------------------------------------------------
+### IFIP – International Federation for Information Processing
 
 IFIP is the leading multinational, apolitical organization in Information & Communications Technologies and Sciences, recognized by United Nations and other world bodies. It represents IT Societies from 56 countries/regions, covering five continents with a total membership of over half a million, and links more than 3500 scientists from Academia & Industry. Over 100 Working Groups and 13 Technical Committees.
 
-Organizing Institution: Cyprus University of Technology
--------------------------------------------------------
+### Organizing Institution: Cyprus University of Technology
 
 The Cyprus University of Technology aspires to develop itself into a modern, pioneering University able to offer education and high level research in leading branches of science and technology which have high impact on the economic, technical, and scientific sectors.
 
 With its orientation towards applied research, the University aims to establish for itself a role in support of the state and society in their efforts to confront problems, which cover all areas of science and technology.
 
-Tallinn University
-------------------
+### Tallinn University
 
 Tallinn University is the largest university of humanities in Tallinn and the third biggest public university in Estonia, with more than 7,500 students and over 800 employees, including nearly 400 researchers and lecturers.
 
 Wishing to contribute more to the society, the University has set a goal to become the promoter of intelligent lifestyle in Estonia. Tallinn University interprets intelligent lifestyle as making research-based decisions in order to improve the society in general and the well-being of its citizens.
 
-Cyprus
-------
+### Cyprus
 
 An island drenched in sun and mythology, at the crossroads of ancient civilizations. 9,000 years of history gathered together on one island. Cyprus packs a remarkable array of sights and attractions, museums and archaeological parks, throbbing beach resorts, pine covered mountains, medieval fortresses and ancient temples. The remarkably rich legacy in archaeological treasures and highly developed infrastructure, make Cyprus one of the most attractive meeting places of the world.
+
+-----
 
 ## CFP
 
