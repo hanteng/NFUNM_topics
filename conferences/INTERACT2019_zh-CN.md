@@ -36,9 +36,9 @@ An island drenched in sun and mythology, at the crossroads of ancient civilizati
 
 [Source](http://interact2019.org/calls/)
 
-INTERACT 2019 invites all to be a part of the conference by actively participating in the various conference tracks.
+INTERACT 交互会议邀请所有各方积极與会，参加各种会议分主题(tracks)。
 
-We invite you to submit your original work to the conference. The proceedings will be published in [Springer LNCS Series](http://www.springer.com/series/558), as per the rules mentioned in the individual track details. INTERACT 2019 is an international conference and all submissions will be peer-reviewed by an international panel of experts. The official conference language is English, and all submissions must be in English.
+我们邀请您将您的原創作品提交给会议。根据个别会议分主题细节中提到的规则, 会议論文将在 [Springer LNCS Series](http://www.springer.com/series/558) 發表。INTERACT 2019 是一次国际会议, 所有提交的材料都将由一个国际专家小组进行同行审查。正式会议语言为英语, 所有提交的材料必须为英语。
 
 我们欢迎提交的材料，包括但不限于以下主题：
 
