@@ -60,7 +60,7 @@ We invite you to submit your original work to the conference. The proceedings wi
 ### 跨文化和社会问题，包括：:
 
 - 开发本地内容或交互设计能力
-- 社会发展中的信息和通信技术-发展中国家的互动设计
+- 社会发展(social development)中的信息和通信技术(ICT)-发展中国家的互动设计
 - HCI的国际和文化方面
 - 用于离岸软件开发的HCI
 
