@@ -143,29 +143,20 @@ INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主�
 
 鼓励作者提交, 显示及时和创新想法的最新研究成果和正在进行的工作 (work in progress)。所有提交论文将由国际专家小组进行同行审查。审查过程，作者和审查人员的保持匿名。
 
-#### **Quick Info**
+#### 快速信息
 
-Reviewing process: peer reviewed
+* 审查流程: 同行审查
+* 共同主席: Jim CS Ang, Evangelos Karapanos
+* Email: [shortpapers[at]interact2019.org][1]
+* 提交日期: 2019年4月8日
+* 审查评论截止日期: 5月13日
+* 通知审查结果日期:  2019年5月20日
+* 相机就绪（Camera-Ready）:  2019年6月3日
+* 页数:   8 页 +  最多2页引用文献
+* 会议论文集(Proceedings): Springer LNCS Series
+* 匿名审查: 是
 
-Co-chairs: Jim CS Ang, Evangelos Karapanos
-
-Email: [shortpapers[at]interact2019.org][1]
-
-Submission: 8 April 2019
-
-Review Deadline: 13th May
-
-Notification: 20 May 2019
-
-Camera-Ready: 3rd June 2019
-
-No. of pages: 8 pages + max. 2 pages for references
-
-Proceedings: Springer LNCS Series
-
-Anonymous: Yes
-
-This year you are allowed up to two additional pages of references beyond the page limit. Therefore, authors are invited to submit short papers with a maximum of 8 pages (plus up to two pages of references), in PDF format by 8th of April 2019 - 23:59 PT, using the conference submission system.
+今年, 您最多可以在页面限制之外增加两页引用文献。因此, 请作者在2019年4月8日之前使用会议提交系统, 以 pdf 格式提交最多8页的短文 (外加最多2页参考引用文献)。
 
 #### **Guidelines**
 
