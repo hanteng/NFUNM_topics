@@ -14,13 +14,14 @@ INTERACT 交互会议是人机交互领域的研究者和实践者展示其工�
 
 国际信息处理联合会 （缩写IFIP, International Federation for Information Processing）是联合国和其他世界机构认可的领先的信息和通信技术及科学的跨国非政治组织。它代表了来自56个国家/地区的信息技术社会，覆盖五大洲，会员总数超过50万，并与来自学术界和工业界的3500多名科学家建立了联系。100多个工作组和13个技术委员会。
 
-### Organizing Institution: Cyprus University of Technology
+### 组织机构: 塞浦路斯技术大学
 
-The Cyprus University of Technology aspires to develop itself into a modern, pioneering University able to offer education and high level research in leading branches of science and technology which have high impact on the economic, technical, and scientific sectors.
+塞浦路斯技术大学 (Cyprus University of Technology) 希望发展成为一所现代化的开拓性大学, 能够在对经济丶技术和科学有高度影响的主要科学和技术领域中，提供教育和高水平的研究。
 
-With its orientation towards applied research, the University aims to establish for itself a role in support of the state and society in their efforts to confront problems, which cover all areas of science and technology.
+大学以应用研究为导向，塞浦路斯技术大学旨在为自己确立支持国家和社会努力应对问题的作用, 这些问题涵盖科学和技术的所有领域。
 
 ### 塔林大学
+
 塔林大学(Tallinn University)是塔林最大的人文大学，也是爱沙尼亚第三大公立大学, 拥有7500多名学生和800多名员工，其中包括近400名研究人员和教师。
 
 为了为社会做出更大的贡献, 大学制定了成为爱沙尼亚智能生活方式(intelligent lifestyle)促进者的目标。塔林大学将智能生活方式论诠释为作出基于研究的决定, 以改善社会大众和公民的福祉/安适状态(well-being)。
