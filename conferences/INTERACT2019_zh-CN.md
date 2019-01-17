@@ -158,13 +158,13 @@ INTERACT 交互会议邀请所有各方积极与会，参加各种会议分主�
 
 今年, 您最多可以在页面限制之外增加两页引用文献。因此, 请作者在2019年4月8日之前使用会议提交系统, 以 pdf 格式提交最多8页的短文 (外加最多2页参考引用文献)。
 
-#### **Guidelines**
+#### **指南**
 
-Papers should be formatted according to [Springer LNCS ][2]format. Accepted short papers must be presented at the conference and will be published in Springer LNCS Series.
+论文的格式应根据[Springer LNCS ][2]格式。被采纳的短论文必需在会议上报告，且在Springer LNCS系列中发表.
 
-Authors should guarantee the anonymity of their submissions. Please remove names and affiliations from the first page. Please avoid obvious identifying statements in the paper. Citations to your own relevant work should not be anonymous, but rather should be done without identifying yourself as the author. For example, say "Prior work by [authors]" instead of "In our prior work."
+作者应保证其提交材料的匿名性。请在第一页中删除姓名和隶属关系。请避免在文件中明显的识别语句。不应该匿名引用你自己相关工作, 而应该在不表明自己是作者的情况下进行。例如, 说 "[作者X] 的先前工作", 而不是 "在我们以前的工作"。
 
-Short papers may optionally be accompanied by a video not exceeding 30 MB in size. Video figures will be published online along and may be used for publicity.
+短论文可选择附加档案大小超过 30 MB 的视频。视频数据将在网上公布, 并可用于宣传。
 
 #### **Submission**
 
