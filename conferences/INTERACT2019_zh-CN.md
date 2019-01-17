@@ -57,7 +57,8 @@ We invite you to submit your original work to the conference. The proceedings wi
 - 基于用户体验的方法 
 - 可视化技术
 
-### 跨文化和社会问题，包括：:
+### 跨文化和社会问题，包括：
+
 - 开发本地内容或交互设计能力
 - 社会发展(social development)中的信息和通信技术(ICT)-发展中国家的互动设计
 - HCI的国际和文化方面
@@ -65,26 +66,26 @@ We invite you to submit your original work to the conference. The proceedings wi
 
 ### 具体应用领域，包括：
 
-- Adaptive Interfaces
-- Augmented Reality and Tangible User Interfaces
-- Child-Computer Interfaces
-- Context- Dependent Systems
-- End-User Development and Adaptation
-- Fun / Aesthetic Design
-- HCI and Web 2.0
-- HCI Education
-- Human-Robot Interaction
-- Human-Work Interaction Design
-- Interaction with Small or Large Displays
-- Multi-Modal Interfaces
-- Multi-User Interaction / Cooperation
-- Novel User Interfaces and Interaction Techniques
-- Social Media / Social Networks
-- Usable Privacy and Security
-- Technology in Healthcare
-- Ubiquitous and Context-Aware Computing
-- User Interfaces for Safety Critical Systems
-- User Interfaces for Web Applications, e-Government
+- 自适应界面
+- 增强现实和有形用户界面
+- 子计算机接口
+- 上下文相关系统
+- 终端用户开发和适应
+- 趣味/美学设计
+- HCI和Web 2.0
+- HCI教育
+- 人机交互
+- 人机交互设计
+- 与小型或大型显示器的交互
+- 多模态接口
+- 多用户交互/合作
+- 新的用户界面和交互技术
+- 社交媒体/社交网络
+- 可用的隐私和安全
+- 医疗技术
+- 无所不在和上下文感知计算
+- 安全关键系统的用户界面
+- 用于Web应用程序、电子政务的用户界面
 
 -----
 
