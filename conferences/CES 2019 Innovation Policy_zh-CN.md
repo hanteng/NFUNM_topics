@@ -13,7 +13,7 @@
   
   北厅
   
-  285房
+  N285
   ### [5g 和自驾车: 政策路线图](https://www.ces.tech/conference/Innovation-Policy/5G-and-SelfDriving-Vehicles-A-Policy-Roadmap.aspx)
   像5G、自动驾驶汽车和物联网这样的革命性技术正在颠覆传统的交通和通信模式，重塑我们的社区，增加移动性、消费者选择和连接。专家们讨论政策优先事项，以保持美国的领先地位。
   * 主持人:
