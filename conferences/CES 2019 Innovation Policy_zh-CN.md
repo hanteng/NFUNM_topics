@@ -17,7 +17,7 @@
   ### [5g 和自驾车: 政策路线图](https://www.ces.tech/conference/Innovation-Policy/5G-and-SelfDriving-Vehicles-A-Policy-Roadmap.aspx)
   像5G、自动驾驶汽车和物联网这样的革命性技术正在颠覆传统的交通和通信模式，重塑我们的社区，增加移动性、消费者选择和连接。专家们讨论政策优先事项，以保持美国的领先地位。
   * 主持人:
-  Jamie Boone:[消费技术协会政府事务高级主管](https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
+  Jamie Boone :[消费技术协会政府事务高级主管](https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
   * John Godfrey:[三星电子美国公共政策高级副总裁](https://www.ces.tech/conference/speaker-directory/John-Godfrey.aspx)
   * Tekedra Mawakana:[Waymo首席外部官](https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
   * Melissa Tye:[Verizon公共政策副总裁](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
