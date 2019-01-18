@@ -25,3 +25,67 @@ Samsung Electronics America](https://www.ces.tech/conference/speaker-directory/J
 Waymo](https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
   * Melissa Tye:[VP, Public Policy
 Verizon](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
+----
+2:15 – 3:15 PM
+
+Conference Session Live Stream
+
+### [Tech and Techlash in the 21st Century](/conference/Innovation-Policy/Tech-and-Techlash-in-the-21st-Century)
+
+ ![](https://cdn.ces.tech/ces/media/conference-images/2019-logos/ips02.jpg) 
+
+LOCATION LVCC North Hall N258
+
+Technology is increasing access to opportunity like never before, even as some call for regulation of successful tech companies or seek to rewrite laws underlying the Internet. Hear how policymakers can ensure technology fulfills its promise without undercutting innovation.
+
+#### Moderator
+
+[](/conference/speaker-directory/Mike-Allen)[
+
+### Mike Allen
+
+](/conference/speaker-directory/Mike-Allen)
+
+#### Co-founder and Executive Editor
+
+#### Axios
+
+[](/conference/speaker-directory/Zach-Graves)[
+
+### Zach Graves
+
+](/conference/speaker-directory/Zach-Graves)
+
+#### Head Of Policy
+
+#### Lincoln Network
+
+[](/conference/speaker-directory/Adam-Kovacevich)[
+
+### Adam Kovacevich
+
+](/conference/speaker-directory/Adam-Kovacevich)
+
+#### Director, Public Policy
+
+#### Google
+
+[](/conference/speaker-directory/Sasha-Moss)[
+
+### Sasha Moss
+
+](/conference/speaker-directory/Sasha-Moss)
+
+#### Federal Affairs Manager
+
+#### R Street Institute
+
+[](/conference/speaker-directory/Michael-Petricone)[
+
+### Michael Petricone
+
+](/conference/speaker-directory/Michael-Petricone)
+
+#### SVP, Government and Regulatory Affairs
+
+#### Consumer Technology Association
