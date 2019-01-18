@@ -63,12 +63,12 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
 ----
 * 2:15 – 3:15 PM
 * LOCATION
-  
-  LVCC
-  
-  North Hall
-  
-  N285
+
+LVCC
+
+North Hall
+
+N285
   ### [The Diverse Workforce Tech Needs to Thrive](https://www.ces.tech/conference/Innovation-Policy/The-Diverse-Workforce-Tech-Needs-to-Thrive.aspx)
   The lack of diversity in the tech industry is a well-documented problem. Come hear from tech companies, entrepreneurs, and activists committed to building a diverse workforce within tech companies and within the entrepreneur and VC ecosystem.
  * MODERATOR:
@@ -95,8 +95,11 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
   ## Thursday, January 10
   * 9:00 – 10:00 AM
   * LOCATION
+  
   LVCC
+  
   North Hall
+  
   N285
   ### [Drones: Mapping the Policy and Business Landscape](https://www.ces.tech/conference/Innovation-Policy/Drones-Mapping-the-Policy-and-Business-Landscape.aspx)
   What are the remaining challenges limiting the potential of drones for businesses and consumers? At this point, how much depends on industry action, and how much depends on regulatory or legislative action? Are public perceptions of drones changing?
