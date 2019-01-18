@@ -95,11 +95,8 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
   ## Thursday, January 10
   * 9:00 – 10:00 AM
   * LOCATION
-  
   LVCC
-  
   North Hall
-  
   N285
   ### [Drones: Mapping the Policy and Business Landscape](https://www.ces.tech/conference/Innovation-Policy/Drones-Mapping-the-Policy-and-Business-Landscape.aspx)
   What are the remaining challenges limiting the potential of drones for businesses and consumers? At this point, how much depends on industry action, and how much depends on regulatory or legislative action? Are public perceptions of drones changing?
