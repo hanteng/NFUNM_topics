@@ -123,11 +123,11 @@ N285
   Revolutionary technologies have the potential to cure diseases, drive efficiency and bring down barriers between doctors and patients. How do we cut through bureaucracy and regulation to safely and expeditiously bring these new approaches to the marketplace?
   * MODERATOR：
   Rene Quashie : [VP, Policy and Regulatory Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
-  Colin Anawaty : [Executive Director, athenahealth](https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
-  Dr. Bettina Experton: [Founder and CEO Humetrix](https://www.ces.tech/conference/speaker-directory/Dr-Bettina-Experton.aspx)
-  Ross Friedberg : [General Counsel & Chief Privacy Officer Doctor on Deman](https://www.ces.tech/conference/speaker-directory/Ross-Friedberg.aspx)
-  Marc Goldsand : [Member Cozen O'Connor](https://www.ces.tech/conference/speaker-directory/Marc-Goldsand.aspx)
-  Drew Schiller : [CEO, Validic](https://www.ces.tech/conference/speaker-directory/Drew-Schiller.aspx)
+  * Colin Anawaty : [Executive Director, athenahealth](https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
+  * Dr. Bettina Experton: [Founder and CEO Humetrix](https://www.ces.tech/conference/speaker-directory/Dr-Bettina-Experton.aspx)
+  * Ross Friedberg : [General Counsel & Chief Privacy Officer Doctor on Deman](https://www.ces.tech/conference/speaker-directory/Ross-Friedberg.aspx)
+  * Marc Goldsand : [Member Cozen O'Connor](https://www.ces.tech/conference/speaker-directory/Marc-Goldsand.aspx)
+  * Drew Schiller : [CEO, Validic](https://www.ces.tech/conference/speaker-directory/Drew-Schiller.aspx)
   ----
   * 11:30 – 12:30 PM
   * LOCATION
