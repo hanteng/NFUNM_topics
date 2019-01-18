@@ -85,7 +85,7 @@ N285
   North Hall
   
   N285
-  ### [aking the Lead on Innovation in Cities](https://www.ces.tech/conference/Innovation-Policy/Taking-the-Lead-on-Innovation-in-Cities.aspx)
+  ### [Taking the Lead on Innovation in Cities](https://www.ces.tech/conference/Innovation-Policy/Taking-the-Lead-on-Innovation-in-Cities.aspx)
   Cities that harness innovation are the new hubs for entrepreneurs and economic development. Mayors and other city officials talk about what makes their cities thrive and how they attract the talent, investment and technology that drives the innovation economy.
  * MODERATOR:
   Walter Alcorn : [VP, Environmental Affairs and Industry Sustainability, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
@@ -119,8 +119,8 @@ N285
   
   N285
   
-  ### [Drones: Mapping the Policy and Business Landscape](https://www.ces.tech/conference/Innovation-Policy/Drones-Mapping-the-Policy-and-Business-Landscape.aspx)
-  What are the remaining challenges limiting the potential of drones for businesses and consumers? At this point, how much depends on industry action, and how much depends on regulatory or legislative action? Are public perceptions of drones changing?
+  ### [Tech Revolutionizing Medicine – If We Let It](https://www.ces.tech/conference/Innovation-Policy/Tech-Revolutionizing-Medicine--If-We-Let-It.aspx)
+  Revolutionary technologies have the potential to cure diseases, drive efficiency and bring down barriers between doctors and patients. How do we cut through bureaucracy and regulation to safely and expeditiously bring these new approaches to the marketplace?
   * MODERATOR：
   Rene Quashie : [VP, Policy and Regulatory Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
   Colin Anawaty : [Executive Director, athenahealth](https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
