@@ -7,7 +7,7 @@ Tech entrepreneurs and policymakers must work together to promote growth and inn
  >PRESENTED BY CONSUMER TECHNOLOGY ASSOCIATION
  ## Tuesday, January 8
   * 1:00 – 2:00 PM
-  * LOCATION
+ * LOCATION
   
   LVCC
   
@@ -71,11 +71,11 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
   N285
   ### [The Diverse Workforce Tech Needs to Thrive](https://www.ces.tech/conference/Innovation-Policy/The-Diverse-Workforce-Tech-Needs-to-Thrive.aspx)
   The lack of diversity in the tech industry is a well-documented problem. Come hear from tech companies, entrepreneurs, and activists committed to building a diverse workforce within tech companies and within the entrepreneur and VC ecosystem.
-  * MODERATOR:
+ * MODERATOR:
   Tiffany Moore : [SVP, Political and Industry Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Tiffany-Moore.aspx)
-  * Bernard Coleman : [Global Head, Diversity and Inclusion, Uber](https://www.ces.tech/conference/speaker-directory/Bernard-Coleman.aspx)
-  * Elizabeth Gore : [President, Alice -- HelloAlice.com](https://www.ces.tech/conference/speaker-directory/Elizabeth-Gore.aspx)
-  * Michelle Morris : [VP, Global Marketing Solutions, Facebook](https://www.ces.tech/conference/speaker-directory/Michelle-Morris.aspx)
+ * Bernard Coleman : [Global Head, Diversity and Inclusion, Uber](https://www.ces.tech/conference/speaker-directory/Bernard-Coleman.aspx)
+ * Elizabeth Gore : [President, Alice -- HelloAlice.com](https://www.ces.tech/conference/speaker-directory/Elizabeth-Gore.aspx)
+ * Michelle Morris : [VP, Global Marketing Solutions, Facebook](https://www.ces.tech/conference/speaker-directory/Michelle-Morris.aspx)
   ----
   * 3:30 – 4:30 PM
   * LOCATION
@@ -87,10 +87,10 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
   N285
   ### [aking the Lead on Innovation in Cities](https://www.ces.tech/conference/Innovation-Policy/Taking-the-Lead-on-Innovation-in-Cities.aspx)
   Cities that harness innovation are the new hubs for entrepreneurs and economic development. Mayors and other city officials talk about what makes their cities thrive and how they attract the talent, investment and technology that drives the innovation economy.
-  * MODERATOR:
+ * MODERATOR:
   Walter Alcorn : [VP, Environmental Affairs and Industry Sustainability, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
-  * Muriel Bowser : [Mayor, Washington, DC](https://www.ces.tech/conference/speaker-directory/Muriel-Bowser.aspx)
-  * Joe Buscaino : [Councilmember, City of Los Angeles](https://www.ces.tech/conference/speaker-directory/Joe-Buscaino.aspx)
+ * Muriel Bowser : [Mayor, Washington, DC](https://www.ces.tech/conference/speaker-directory/Muriel-Bowser.aspx)
+ * Joe Buscaino : [Councilmember, City of Los Angeles](https://www.ces.tech/conference/speaker-directory/Joe-Buscaino.aspx)
   ----
   ## Thursday, January 10
   * 9:00 – 10:00 AM
@@ -103,11 +103,11 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
   N285
   ### [Drones: Mapping the Policy and Business Landscape](https://www.ces.tech/conference/Innovation-Policy/Drones-Mapping-the-Policy-and-Business-Landscape.aspx)
   What are the remaining challenges limiting the potential of drones for businesses and consumers? At this point, how much depends on industry action, and how much depends on regulatory or legislative action? Are public perceptions of drones changing?
-  * MODERATOR：
+ * MODERATOR：
   Doug Johnson ：[VP, Technology Policy Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Doug-Johnson.aspx)
-  * Yariv Bash ：[Co-Founder and CEO Flytrex](https://www.ces.tech/conference/speaker-directory/Yariv-Bash.aspx)
-  * Diana Cooper : [SVP, Policy and Strategy PrecisionHawk](https://www.ces.tech/conference/speaker-directory/Diana-Cooper.aspx)
-  * Kimberly Darrin : [Director, Public Policy AT&T](https://www.ces.tech/conference/speaker-directory/Kimberly-Darrin.aspx)
-  * Brendan Schulman : [VP, Policy and Legal Affairs DJI](https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx)
+ * Yariv Bash ：[Co-Founder and CEO Flytrex](https://www.ces.tech/conference/speaker-directory/Yariv-Bash.aspx)
+ * Diana Cooper : [SVP, Policy and Strategy PrecisionHawk](https://www.ces.tech/conference/speaker-directory/Diana-Cooper.aspx)
+ * Kimberly Darrin : [Director, Public Policy AT&T](https://www.ces.tech/conference/speaker-directory/Kimberly-Darrin.aspx)
+ * Brendan Schulman : [VP, Policy and Legal Affairs DJI](https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx)
   
 
