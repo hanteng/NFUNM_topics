@@ -50,14 +50,13 @@
   N285
   ### [发布《通用数据保护条例》（General Data Protection Regulation，简称GDPR）世界中的美国隐私法规](https://www.ces.tech/conference/Innovation-Policy/American-Privacy-Regulations-in-a-PostGDPR-World.aspx)
 2018年，世界各地的公司必须适应通用数据保护条例（GDPR）。这一跃升引发了美国政策制定者之间关于美国隐私规定应该是什么样子的对话。来自工业界和政府的代表讨论了未来的潜在途径。
-* 主持人：
+ * 主持人：
 Michael Petricone ： [消费者技术协会政府和监管事务高级副总裁](消费者技术协会政府和监管事务高级副总裁)
-* Darrell Issa :[](https://www.ces.tech/conference/speaker-directory/Darrell-Issa.aspx)
-* Jules Polonetsky : [未来隐私论坛首席执行官](https://www.ces.tech/conference/speaker-directory/Jules-Polonetsky.aspx)
-* Michelle Richardson : [民主和技术中心隐私和数据项目主任](
-https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
-* Jeffrey Zubricki : [沃尔玛全球公共政策总监](https://www.ces.tech/conference/speaker-directory/Jeffrey-Zubricki.aspx)
-  ----
+ * Darrell Issa :[](https://www.ces.tech/conference/speaker-directory/Darrell-Issa.aspx)
+ * Jules Polonetsky : [未来隐私论坛首席执行官](https://www.ces.tech/conference/speaker-directory/Jules-Polonetsky.aspx)
+ * Michelle Richardson : [民主和技术中心隐私和数据项目主任](https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
+ * Jeffrey Zubricki : [沃尔玛全球公共政策总监](https://www.ces.tech/conference/speaker-directory/Jeffrey-Zubricki.aspx)
+----
   ## 1月10日，星期四
   * 上午9:00 – 10:00
   * 位置
