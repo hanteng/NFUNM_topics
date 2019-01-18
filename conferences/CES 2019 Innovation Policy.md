@@ -109,5 +109,61 @@ N285
  * Diana Cooper : [SVP, Policy and Strategy PrecisionHawk](https://www.ces.tech/conference/speaker-directory/Diana-Cooper.aspx)
  * Kimberly Darrin : [Director, Public Policy AT&T](https://www.ces.tech/conference/speaker-directory/Kimberly-Darrin.aspx)
  * Brendan Schulman : [VP, Policy and Legal Affairs DJI](https://www.ces.tech/conference/speaker-directory/Brendan-Schulman.aspx)
+ ----
+ * 10:15 – 11:15 AM
+ * LOCATION
+  
+  LVCC
+  
+  North Hall
+  
+  N285
+  
+  ### [Drones: Mapping the Policy and Business Landscape](https://www.ces.tech/conference/Innovation-Policy/Drones-Mapping-the-Policy-and-Business-Landscape.aspx)
+  What are the remaining challenges limiting the potential of drones for businesses and consumers? At this point, how much depends on industry action, and how much depends on regulatory or legislative action? Are public perceptions of drones changing?
+  * MODERATOR：
+  Rene Quashie : [VP, Policy and Regulatory Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
+  Colin Anawaty : [Executive Director, athenahealth](https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
+  Dr. Bettina Experton: [Founder and CEO Humetrix](https://www.ces.tech/conference/speaker-directory/Dr-Bettina-Experton.aspx)
+  Ross Friedberg : [General Counsel & Chief Privacy Officer Doctor on Deman](https://www.ces.tech/conference/speaker-directory/Ross-Friedberg.aspx)
+  Marc Goldsand : [Member Cozen O'Connor](https://www.ces.tech/conference/speaker-directory/Marc-Goldsand.aspx)
+  Drew Schiller : [CEO, Validic](https://www.ces.tech/conference/speaker-directory/Drew-Schiller.aspx)
+  ----
+  * 11:30 – 12:30 PM
+  * LOCATION
+  
+  LVCC
+  
+  North Hall
+  
+  N285
+  ### [Make Trade, Not Tariffs](https://www.ces.tech/conference/Innovation-Policy/Make-Trade-Not-Tariffs.aspx)
+  The trade landscape is tumultuous and U.S. trade policy is at a critical nexus. Hear our experts discuss the 2019 trade landscape, the impact of tariffs, and how we can update trade agreements for the digital age.
+  * MODERATOR:
+  Sage Chandler : [VP, International Trade, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Sage-Chandler.aspx)
+  * Aaron Emigh : [Co-Founder and CEO Brilliant](https://www.ces.tech/conference/speaker-directory/Aaron-Emigh.aspx)
+  * Lisa Errion : [VP, Government and External Affairs for the Americas BMW](
+  https://www.ces.tech/conference/speaker-directory/Lisa-Errion.aspx)
+  * Brian Kuehl : [Executive Director, Farmers for Free Trade](https://www.ces.tech/conference/speaker-directory/Brian-Kuehl.aspx)
+  * Sarah Thorn : [Senior Director, Global Government Affairs Walmart](https://www.ces.tech/conference/speaker-directory/Sarah-Thorn.aspx)
+  ----
+  * 1:00 – 2:00 PM
+  * LOCATION
+  
+  LVCC
+  
+  North Hall
+  
+  N285
+  ### [Solving Bias in Artificial Intelligence](https://www.ces.tech/conference/Innovation-Policy/Solving-Bias-in-Artificial-Intelligence.aspx)
+  Artificial intelligence is poised to revolutionize, and positively impact, many aspects of our lives. Questions remain about bias in some of these AI systems. In this discussion we will explore policy and technological options for addressing bias in AI.
+  * MODERATOR:
+  Michael Hayes : [Sr. Manager, Government Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Michael-Hayes.aspx)
+  * Sunmin Kim : [Technology Policy Advisor Office of Senator Brian Schatz](https://www.ces.tech/conference/speaker-directory/Sunmin-Kim.aspx)
+  * Lynne Parker : [AI Policy Lead, The White House Office of Science and Technology Policy](https://www.ces.tech/conference/speaker-directory/Lynne-Parker.aspx)
+  * Bari Williams : [VP, Legal, Policy and Business Affairs All Turtles](https://www.ces.tech/conference/speaker-directory/Bari-Williams.aspx)
+  >All CES conference sessions are seated on a first-come, first-served basis.
+  
+  
   
 
