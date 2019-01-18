@@ -17,13 +17,13 @@ Tech entrepreneurs and policymakers must work together to promote growth and inn
   ### [5G and Self-Driving Vehicles: A Policy Roadmap](https://www.ces.tech/conference/Innovation-Policy/5G-and-SelfDriving-Vehicles-A-Policy-Roadmap.aspx)
   Revolutionary technologies like 5G, self-driving vehicles and the internet of things are disrupting traditional models of transportation and communication, reshaping our communities and increasing mobility, consumer choice and connectivity. Experts discuss policy priorities to keep the US leading the way.
   * MODERATOR:
-  Jamie Boone :[Sr. Director, Government Affairs
+  Jamie Boone : [Sr. Director, Government Affairs
 Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
-  * John Godfrey:[SVP, Public Policy
+  * John Godfrey : [SVP, Public Policy
 Samsung Electronics America](https://www.ces.tech/conference/speaker-directory/John-Godfrey.aspx)
-  * Tekedra Mawakana:[Chief External Officer
+  * Tekedra Mawakana : [Chief External Officer
 Waymo](https://www.ces.tech/conference/speaker-directory/Tekedra-Mawakana.aspx)
-  * Melissa Tye:[VP, Public Policy
+  * Melissa Tye : [VP, Public Policy
 Verizon](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
 ----
   * 2:15 – 3:15 PM
@@ -61,6 +61,37 @@ Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technolog
  * Michelle Richardson : [Director, Privacy and Data Project Center for Democracy and Technology](https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
  * Jeffrey Zubricki : [Director, Global Public Policy Walmart](https://www.ces.tech/conference/speaker-directory/Jeffrey-Zubricki.aspx)
 ----
+* 2:15 – 3:15 PM
+* LOCATION
+  
+  LVCC
+  
+  North Hall
+  
+  N285
+  ### [The Diverse Workforce Tech Needs to Thrive](https://www.ces.tech/conference/Innovation-Policy/The-Diverse-Workforce-Tech-Needs-to-Thrive.aspx)
+  The lack of diversity in the tech industry is a well-documented problem. Come hear from tech companies, entrepreneurs, and activists committed to building a diverse workforce within tech companies and within the entrepreneur and VC ecosystem.
+  * MODERATOR:
+  Tiffany Moore : [SVP, Political and Industry Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Tiffany-Moore.aspx)
+  * Bernard Coleman : [Global Head, Diversity and Inclusion, Uber](https://www.ces.tech/conference/speaker-directory/Bernard-Coleman.aspx)
+  * Elizabeth Gore : [President, Alice -- HelloAlice.com](https://www.ces.tech/conference/speaker-directory/Elizabeth-Gore.aspx)
+  * Michelle Morris : [VP, Global Marketing Solutions, Facebook](https://www.ces.tech/conference/speaker-directory/Michelle-Morris.aspx)
+  ----
+  * 3:30 – 4:30 PM
+  * LOCATION
+  
+  LVCC
+  
+  North Hall
+  
+  N285
+  ### [aking the Lead on Innovation in Cities](https://www.ces.tech/conference/Innovation-Policy/Taking-the-Lead-on-Innovation-in-Cities.aspx)
+  Cities that harness innovation are the new hubs for entrepreneurs and economic development. Mayors and other city officials talk about what makes their cities thrive and how they attract the talent, investment and technology that drives the innovation economy.
+  * MODERATOR:
+  Walter Alcorn : [VP, Environmental Affairs and Industry Sustainability, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
+  * Muriel Bowser : [Mayor, Washington, DC](https://www.ces.tech/conference/speaker-directory/Muriel-Bowser.aspx)
+  * Joe Buscaino : [Councilmember, City of Los Angeles](https://www.ces.tech/conference/speaker-directory/Joe-Buscaino.aspx)
+  ----
   ## Thursday, January 10
   * 9:00 – 10:00 AM
   * LOCATION
