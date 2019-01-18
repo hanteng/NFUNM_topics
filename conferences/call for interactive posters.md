@@ -1,89 +1,95 @@
-# 17th IFIP TC.13 International Conference on Human-Computer Interaction
+# 第17届IFIP TC.13国际人机交互大会
+## <center>互动海报</center>
+- 邀请提交交互式海报，涉及HCI的任何领域，包括会议主题中确定的领域。鼓励实践者和研究人员提交互动海报，因为它提供了一个独特的机会来分享有价值的想法，在早期工作中获得有用的反馈，促进同事之间的讨论和合作。
 
-## <center>Interactive Posters</center>
-- Submissions for Interactive Posters are invited, addressing any area of HCI, including those identified in the conference topics. Practitioners and researchers are encouraged to submit Interactive Posters as it provides a unique opportunity for sharing valuable ideas, eliciting useful feedback on early-stage work, and fostering discussions and collaborations among colleagues.
+- 鼓励作者展示最新的突破性研究成果，并报告具有启发性和创新性的想法。互动海报的投稿必须是原创作品，并且之前不得发表。
 
-- Authors are encouraged to demonstrate late-breaking research results and work in progress that reports stimulating and innovative ideas. Interactive Poster submissions should report original work and must not have been published previously.
-
-- Interactive Poster submissions are juried by an international panel of experts. Accepted posters must be presented at the conference during a special poster session. Poster papers will appear in the INTERACT 2019 conference proceedings.
-
-
-### **Quick Info**
-Reviewing process: juried
-
-Co-Chairs: Carmelo Ardito, Zhengjie Liu
-
-E-mail     posters[at]interact2019.org
-
-Submission: 8 April 2019
-
-Notification: 20 May April 2019
-
-Camera-Ready: 3 June 2019
-
-No. of pages: 4 + 1 (4 pages extended abstract  + a visual poster draft resized to one A0 page)
-
-Proceedings: Springer LNCS Series
-
-Anonymous: NO
-
-### **Interactive Poster**
-An Interactive Poster is a concise report of recent findings or other types of innovative or thought-provoking work relevant to the INTERACT community.
-
-The difference between Interactive Poster and other contribution types (e.g. papers and notes) is that Interactive Poster submissions represents work that has not reached a level of completion that would warrant the full refereed selection process. That said, appropriate submissions should make some contribution to the body of HCI knowledge, whether realized or promised.
-
-A significant benefit of an Interactive Poster derives from the discussion between the author and conference attendees that will be fostered by the face-to-face presentation of the work. This submission category aims to attract participation from a broad range of disciplines covering a spectrum of topics and methodologies.
-
-Summaries of completed work or reduced versions of short or full paper submissions are inappropriate as an Interactive Poster submission and will be rejected.
-
-Submissions may include, but are not limited to, the following types of work:
-
-- Evaluations of systems, techniques, practices or other phenomena relevant to HCI.
-- Descriptions of new methods, processes, techniques, or tools for use in interactive system design, development or deployment.
-- Reflections from practice, including lessons learned or principles derived from real-world experiences and backed by thought-provoking and well-substantiated analyses.
-- Accounts of the design (rationale, process, outcomes and/or evaluation) of innovative applications, user interfaces, or systems.
-### Preparing and Submitting an Interactive Poster
-Interactive Poster submissions must consist of two related documents:
-
-- A poster extended abstract prepared in the [Springer LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?countryChanged=true) format and submitted as a PDF file. Poster extended abstract should be camera-ready and thoroughly copy-edited. Interactive Poster submissions need not be anonymous.
-- An electronic version of the poster that you will present at the conference. For the review process, your poster should be reduced to one standard page in size (A4) and submitted as a PDF file. Please note that the physical posters presented at the conference may not be larger than A0 format.
-
-Due to the short review cycle, there should be nearly no changes between your submission and the camera-ready final document, except in rare circumstances.
-
-Both the poster extended abstract and the poster should communicate:
-
-- A concise description of the work
-- Implications of the work for the INTERACT community
-- Recommendations for further investigation and/or incorporation into practice
-
-### Submission
-Submissions are accepted via PCS. To start the process or create an account [click here](https://new.precisionconference.com/user/login?society=interact).
+- 互动海报的提交由一个国际专家小组进行评审。接受的海报必须在特别海报会议期间提交会议。海报论文将会出现在2019会议报告记录中。
 
 
-### Selection Process
-Interactive Poster submissions will be selected by an anonymous jury. The process has been designed to acknowledge the early-stage nature of the work. All submissions are considered confidential during the review process.
+### **快速信息**
+检查过程:评审
 
 
-### Review Criteria
-Each submission will be reviewed on the following criteria:
+联合主席:卡梅罗·阿迪托，刘正杰
 
-**1.** Significance: How important is the problem or question that this submission addresses? How important is the output of this work in contributing to the identified problem or question? How greatly can others benefit from this work?
+
+电子邮件海报[在]interact2019.org
+
+
+提交日期:2019年4月8日
+
+
+通知:2019年5月20日
+
+
+拍摄时间:2019年6月3日
+
+
+页数:4 + 1(4页延伸摘要+ 1页视觉海报稿调整为1页A0)
+
+
+会议记录:施普林格LNCS系列
+
+
+匿名:不
+
+### **互动海报**
+互动海报是对最近的发现或其他与互动社区相关的创新或发人深省的工作的简明报告。
+互动海报与其他投稿类型(如论文和笔记)的不同之处在于，互动海报投稿所代表的作品尚未达到能够保证完整的参考选择过程的完成水平。也就是说，适当的提交应该对HCI知识的主体做出一些贡献，无论是实现的还是承诺的。
  
-**2.** Originality: How novel is the contribution? How clearly does the submission communicate the ways that it differs from and goes beyond the most relevant previous work in this area? (Note that for an Interactive Poster submission, full literature searches are not expected, although the most relevant citations should be included).
+交互式海报的一个重要好处来自作者和会议参与者之间的讨论，这种讨论将通过面对面地展示作品来进行。这个提交类别的目的是吸引广泛的学科参与，包括一系列的主题和方法。
 
-**3.**  Validity: How appropriate are the chosen methods for the work being undertaken? How well are the submission’s claims and conclusions supported by the results?
+已完成作品的摘要或简短或完整的论文投稿摘要不适宜作为互动海报投稿，并将被拒绝。
 
-**4.**  Written Presentation: How clear and understandable is the writing in the poster abstract? To what extent does the poster abstract conform to conference formatting requirements and the 4-page limit?
+提交的作品可包括但不限于以下类型的作品:
 
-**5.**  Visual Presentation (The Poster): How well does the design of the poster effectively communicate the most important facets of the work? To what degree is the design of the poster likely to draw in an audience?
+- 评估与人机交互有关的系统、技术、实践或其他现象。
+- 描述用于交互式系统设计、开发或部署的新方法、流程、技术或工具。
+- 来自实践的反思，包括从现实经验中获得的经验教训或原则，并由发人深省和充分证实的分析支持。
+- 创新应用程序、用户界面或系统的设计(原理、过程、结果和/或评估)说明。
+### 准备并提交互动海报
+互动海报必须包括两份相关文件:
 
-**6.**  Ability of the Work to Engender Discussion: To what degree will the presentation of this work stimulate interesting conversation among researchers or practitioners? To what extent will the presenters benefit from being able to discuss their work and receive feedback at this stage?
+- 一份以[施普林格LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?countryChanged=true)格式拟备并以PDF格式提交的海报摘要。海报扩展摘要应该是相机准备和彻底的复制编辑。互动海报提交不必是匿名的。
+- 你将在会议上展示的海报的电子版。在检讨过程中，你的海报须缩减至一页A4大小，并以PDF格式提交。请注意，在会议上展示的实物海报不得大于A0格式。
 
-### Upon Acceptance of your submission
-Interactive poster authors will be notified of acceptance. If a submission is accepted to appear at the conference, the contact person will receive further instructions regarding the inclusion of their poster abstract in the conference proceedings, as well as instructions for the poster presentation at the conference.
+由于审查周期较短，你提交的文件和准备就绪的最终文件之间几乎没有任何变化，除非是在极少数情况下。
+
+海报的引申摘要和海报都应传达:
+
+- 对工作的简明描述
+- 这项工作对互动社区的意义
+- 进一步调查及/或纳入实践的建议
+
+### 提交
+提交是通过pc接受的。要启动该流程或创建一个帐户[单击此处](https://new.precisionconference.com/user/login?society=interact).
 
 
-### At the Conference
-Accepted Interactive Posters will be displayed during the conference. Authors will be expected to attend the conference and will be assigned a time and location to present their poster to conference attendees. Authors will be required to set up beforehand and stand with their posters during the assigned time.
+### 选拔过程
+互动海报投稿将由匿名评审团选出。设计这个过程是为了承认这项工作的早期性质。所有提交的文件在审查过程中均视为机密。
+
+
+### 审查标准
+每一份作品均会按下列准则进行评审:
+
+**1.** 重要性:提交的问题有多重要?这项工作的输出对确定的问题有多重要?其他人能从这项工作中获益多少?
+ 
+**2.** 原创性:贡献有多大?提交的内容如何清晰地传达出它与这一领域中最相关的先前工作的不同之处和超越之处?(请注意，对于交互式海报提交，不期望进行完整的文献搜索，尽管应该包括最相关的引用)。
+
+**3.**  有效性:所选择的方法是否合适?作品的主张和结论在多大程度上得到结果的支持?
+
+**4.**  书面陈述:海报摘要中的文字是否清晰易懂?海报摘要在多大程度上符合会议格式要求和4页的限制?
+
+**5.**  视觉表现(海报):海报的设计如何有效地传达作品最重要的方面?海报的设计能在多大程度上吸引观众?
+
+**6.**  作品引发讨论的能力:在何种程度上，该作品的呈现会激发研究者或实践者之间有趣的对话?在这个阶段，演讲者能够讨论他们的工作并得到反馈，这会在多大程度上受益?
+
+### 接受你的意见后
+互动海报作者将被通知接受。如果接受提交的文件出席会议，联络人将收到关于将其海报摘要列入会议记录的进一步指示，以及关于在会议上展示海报的指示。
+
+
+### 在会议上
+大会期间，大会将展示已接受的互动海报。作者将被要求出席会议，并被分配一个时间和地点向与会者展示他们的海报。作者将被要求预先设置和站在他们的海报在指定的时间。
 
 
