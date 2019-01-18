@@ -17,7 +17,7 @@ Tech entrepreneurs and policymakers must work together to promote growth and inn
   ### [5G and Self-Driving Vehicles: A Policy Roadmap](https://www.ces.tech/conference/Innovation-Policy/5G-and-SelfDriving-Vehicles-A-Policy-Roadmap.aspx)
   Revolutionary technologies like 5G, self-driving vehicles and the internet of things are disrupting traditional models of transportation and communication, reshaping our communities and increasing mobility, consumer choice and connectivity. Experts discuss policy priorities to keep the US leading the way.
   * MODERATOR:
-  Jamie Boone : [Sr. Director, Government Affairs
+    * Jamie Boone : [Sr. Director, Government Affairs
 Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Jamie-Boone.aspx)
   * John Godfrey : [SVP, Public Policy
 Samsung Electronics America](https://www.ces.tech/conference/speaker-directory/John-Godfrey.aspx)
@@ -37,7 +37,7 @@ Verizon](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
   ### [Tech and Techlash in the 21st Century](https://www.ces.tech/conference/Innovation-Policy/Tech-and-Techlash-in-the-21st-Century.aspx)
   Technology is increasing access to opportunity like never before, even as some call for regulation of successful tech companies or seek to rewrite laws underlying the Internet. Hear how policymakers can ensure technology fulfills its promise without undercutting innovation.
   * MODERATOR:
-  Mike Allen ：[Co-founder and Executive Editor Axios](https://www.ces.tech/conference/speaker-directory/Mike-Allen.aspx)
+    * Mike Allen ：[Co-founder and Executive Editor Axios](https://www.ces.tech/conference/speaker-directory/Mike-Allen.aspx)
   * Zach Graves : [Head Of Policy Lincoln Networ](https://www.ces.tech/conference/speaker-directory/Zach-Graves.aspx)
   * Adam-Kovacevich : [Director, Public Policy Google](https://www.ces.tech/conference/speaker-directory/Adam-Kovacevich.aspx)
   * Sasha Moss : [Federal Affairs Manager R Street Institute](https://www.ces.tech/conference/speaker-directory/Sasha-Moss.aspx)
@@ -55,7 +55,7 @@ Verizon](https://www.ces.tech/conference/speaker-directory/Melissa-Tye.aspx)
   ### [American Privacy Regulations in a Post-GDPR World](https://www.ces.tech/conference/Innovation-Policy/American-Privacy-Regulations-in-a-PostGDPR-World.aspx)
 In 2018, companies around the world had to adapt to the General Data Protection Regulation (GDPR). This jump-started conversations among American policymakers about what U.S. privacy regulations should look like. Representatives from industry and government discuss potential paths forward.
  * MODERATOR：
-Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technology Association]()
+   * Michael Petricone ： [SVP, Government and Regulatory Affairs Consumer Technology Association]()
  * Darrell Issa :[](https://www.ces.tech/conference/speaker-directory/Darrell-Issa.aspx)
  * Jules Polonetsky : [CEO Future of Privacy Forum](https://www.ces.tech/conference/speaker-directory/Jules-Polonetsky.aspx)
  * Michelle Richardson : [Director, Privacy and Data Project Center for Democracy and Technology](https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
@@ -72,7 +72,7 @@ N285
   ### [The Diverse Workforce Tech Needs to Thrive](https://www.ces.tech/conference/Innovation-Policy/The-Diverse-Workforce-Tech-Needs-to-Thrive.aspx)
   The lack of diversity in the tech industry is a well-documented problem. Come hear from tech companies, entrepreneurs, and activists committed to building a diverse workforce within tech companies and within the entrepreneur and VC ecosystem.
  * MODERATOR:
-  Tiffany Moore : [SVP, Political and Industry Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Tiffany-Moore.aspx)
+   * Tiffany Moore : [SVP, Political and Industry Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Tiffany-Moore.aspx)
  * Bernard Coleman : [Global Head, Diversity and Inclusion, Uber](https://www.ces.tech/conference/speaker-directory/Bernard-Coleman.aspx)
  * Elizabeth Gore : [President, Alice -- HelloAlice.com](https://www.ces.tech/conference/speaker-directory/Elizabeth-Gore.aspx)
  * Michelle Morris : [VP, Global Marketing Solutions, Facebook](https://www.ces.tech/conference/speaker-directory/Michelle-Morris.aspx)
@@ -88,7 +88,7 @@ N285
   ### [Taking the Lead on Innovation in Cities](https://www.ces.tech/conference/Innovation-Policy/Taking-the-Lead-on-Innovation-in-Cities.aspx)
   Cities that harness innovation are the new hubs for entrepreneurs and economic development. Mayors and other city officials talk about what makes their cities thrive and how they attract the talent, investment and technology that drives the innovation economy.
  * MODERATOR:
-  Walter Alcorn : [VP, Environmental Affairs and Industry Sustainability, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
+   * Walter Alcorn : [VP, Environmental Affairs and Industry Sustainability, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Walter-Alcorn.aspx)
  * Muriel Bowser : [Mayor, Washington, DC](https://www.ces.tech/conference/speaker-directory/Muriel-Bowser.aspx)
  * Joe Buscaino : [Councilmember, City of Los Angeles](https://www.ces.tech/conference/speaker-directory/Joe-Buscaino.aspx)
   ----
@@ -104,7 +104,7 @@ N285
   ### [Drones: Mapping the Policy and Business Landscape](https://www.ces.tech/conference/Innovation-Policy/Drones-Mapping-the-Policy-and-Business-Landscape.aspx)
   What are the remaining challenges limiting the potential of drones for businesses and consumers? At this point, how much depends on industry action, and how much depends on regulatory or legislative action? Are public perceptions of drones changing?
  * MODERATOR：
-  Doug Johnson ：[VP, Technology Policy Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Doug-Johnson.aspx)
+   * Doug Johnson ：[VP, Technology Policy Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Doug-Johnson.aspx)
  * Yariv Bash ：[Co-Founder and CEO Flytrex](https://www.ces.tech/conference/speaker-directory/Yariv-Bash.aspx)
  * Diana Cooper : [SVP, Policy and Strategy PrecisionHawk](https://www.ces.tech/conference/speaker-directory/Diana-Cooper.aspx)
  * Kimberly Darrin : [Director, Public Policy AT&T](https://www.ces.tech/conference/speaker-directory/Kimberly-Darrin.aspx)
@@ -122,7 +122,7 @@ N285
   ### [Tech Revolutionizing Medicine – If We Let It](https://www.ces.tech/conference/Innovation-Policy/Tech-Revolutionizing-Medicine--If-We-Let-It.aspx)
   Revolutionary technologies have the potential to cure diseases, drive efficiency and bring down barriers between doctors and patients. How do we cut through bureaucracy and regulation to safely and expeditiously bring these new approaches to the marketplace?
   * MODERATOR：
-  Rene Quashie : [VP, Policy and Regulatory Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
+    * Rene Quashie : [VP, Policy and Regulatory Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Rene-Quashie.aspx)
   * Colin Anawaty : [Executive Director, athenahealth](https://www.ces.tech/conference/speaker-directory/Colin-Anawaty.aspx)
   * Dr. Bettina Experton: [Founder and CEO Humetrix](https://www.ces.tech/conference/speaker-directory/Dr-Bettina-Experton.aspx)
   * Ross Friedberg : [General Counsel & Chief Privacy Officer Doctor on Deman](https://www.ces.tech/conference/speaker-directory/Ross-Friedberg.aspx)
@@ -140,7 +140,7 @@ N285
   ### [Make Trade, Not Tariffs](https://www.ces.tech/conference/Innovation-Policy/Make-Trade-Not-Tariffs.aspx)
   The trade landscape is tumultuous and U.S. trade policy is at a critical nexus. Hear our experts discuss the 2019 trade landscape, the impact of tariffs, and how we can update trade agreements for the digital age.
   * MODERATOR:
-  Sage Chandler : [VP, International Trade, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Sage-Chandler.aspx)
+    * Sage Chandler : [VP, International Trade, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Sage-Chandler.aspx)
   * Aaron Emigh : [Co-Founder and CEO Brilliant](https://www.ces.tech/conference/speaker-directory/Aaron-Emigh.aspx)
   * Lisa Errion : [VP, Government and External Affairs for the Americas BMW](
   https://www.ces.tech/conference/speaker-directory/Lisa-Errion.aspx)
@@ -158,7 +158,7 @@ N285
   ### [Solving Bias in Artificial Intelligence](https://www.ces.tech/conference/Innovation-Policy/Solving-Bias-in-Artificial-Intelligence.aspx)
   Artificial intelligence is poised to revolutionize, and positively impact, many aspects of our lives. Questions remain about bias in some of these AI systems. In this discussion we will explore policy and technological options for addressing bias in AI.
   * MODERATOR:
-  Michael Hayes : [Sr. Manager, Government Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Michael-Hayes.aspx)
+    * Michael Hayes : [Sr. Manager, Government Affairs, Consumer Technology Association](https://www.ces.tech/conference/speaker-directory/Michael-Hayes.aspx)
   * Sunmin Kim : [Technology Policy Advisor Office of Senator Brian Schatz](https://www.ces.tech/conference/speaker-directory/Sunmin-Kim.aspx)
   * Lynne Parker : [AI Policy Lead, The White House Office of Science and Technology Policy](https://www.ces.tech/conference/speaker-directory/Lynne-Parker.aspx)
   * Bari Williams : [VP, Legal, Policy and Business Affairs All Turtles](https://www.ces.tech/conference/speaker-directory/Bari-Williams.aspx)
