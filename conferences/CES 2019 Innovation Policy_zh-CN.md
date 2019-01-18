@@ -160,9 +160,7 @@ N285
   * Sunmin Kim : [Office of Senator Brian Schatz技术政策顾问](https://www.ces.tech/conference/speaker-directory/Sunmin-Kim.aspx)
   * Lynne Parker : [The White House Office of Science and Technology Policy的AI 策略主管](https://www.ces.tech/conference/speaker-directory/Lynne-Parker.aspx)
   * Bari Williams : [All Turtles法律、政策和商业事务副总裁](https://www.ces.tech/conference/speaker-directory/Bari-Williams.aspx)
-  >All CES conference sessions are seated on a first-come, first-served basis.
-  
-  CES所有会议均按先到先得的原则就座。
+  >CES所有会议均按先到先得的原则就座。
 
 会议
 ----------
