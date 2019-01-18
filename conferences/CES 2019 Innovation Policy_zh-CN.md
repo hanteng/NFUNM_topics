@@ -56,7 +56,7 @@ Michael Petricone ： [消费者技术协会政府和监管事务高级副总裁
 * Jules Polonetsky : [未来隐私论坛首席执行官](https://www.ces.tech/conference/speaker-directory/Jules-Polonetsky.aspx)
 * Michelle Richardson : [民主和技术中心隐私和数据项目主任](
 https://www.ces.tech/conference/speaker-directory/Michelle-Richardson.aspx)
-* effrey Zubricki : [沃尔玛全球公共政策总监](
+* effrey Zubricki: [沃尔玛全球公共政策总监](
   https://www.ces.tech/conference/speaker-directory/Jeffrey-Zubricki.aspx)
   ----
   ## 1月10日，星期四
