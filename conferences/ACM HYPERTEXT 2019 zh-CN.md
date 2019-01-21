@@ -1,86 +1,86 @@
 
-[Source](https://human.iisys.de/ht2019/call-for-papers/ "Permalink to Call for Papers – ACM Hypertext 2019")
+[来源]（https://human.iisys.de/ht2019/call-for-papers/“永久征集论文 -  ACM Hypertext 2019”）
 
-# Call for Papers – ACM Hypertext 2019
+# 征集论文 -  ACM Hypertext 2019
+## ACM HYPERTEXT 2019  - 泪流满面的墙
 
-## ACM HYPERTEXT 2019 – TEAR DOWN THE WALL
-
-30th ACM Conference on Hypertext and Social Media (HT'19)  
-17–20 September 2019 | Hof, Germany 
+第30届ACM超文本和社交媒体会议（HT'19） 
+2019年9月17日至20日 霍夫，德国
 
   
-Twitter: [@ACMHT][1]  
-Hashtag: [#acmht19][2]
+推特：[@ ACMHT] [1] 
+标签：[＃acmht19] [2]
 
-2019 – the year of anniversaries: Time to reflect and look ahead.
+2019年 - 周年纪念日：反思和展望未来的时刻。
 
-* 30th Anniversary of the fall of the Berlin Wall 
-* 30th Hypertext Conference 
-* 30th Anniversary of the WWW 
-* 20th Anniversary of the first ACM Hypertext Conference in Germany 
+*柏林墙倒塌30周年
+*第30届超文本会议
+* WWW成立30周年
+*德国首届ACM超文本大会20周年
 
-## CONFERENCE SCOPE
+## 会议范围
 
-The ACM Hypertext conference is a premium venue for high quality peer-reviewed research on hypertext theory, systems and applications. It is concerned with all aspects of modern hypertext research including social media, semantic web, dynamic and computed hypertext and hypermedia as well as narrative systems and applications. 
+ACM超文本会议是高质量理论，系统和应用程序高质量同行评审研究的重要场所。 它涉及现代超文本研究的所有方面，包括社交媒体，语义网，动态和计算超文本和超媒体以及叙事系统和应用。
 
-The theme of Hypertext 2019 is _"HYPERTEXT – TEAR DOWN THE WALL"_. This motto of the 30th ACM Hypertext conference goes hand in hand with the 30th anniversary of the fall of the Berlin Wall. Inspired by the historical events in Germany, Hypertext 2019 aims at reunifying different hypertext research directions and communities. Therefore, apart from the regular research tracks, Hypertext 2019 will feature a research track on 30 Years Hypertext as well as an exhibition/creative track. 2019 will also be the 30th anniversary of the WWW. It is a perfect time to join in, reflect our common roots, and discuss how we can jointly address our current and future challenges. 
+超文本2019的主题是_“HYPERTEXT  -  TEAR DOWN THE WALL”_。 第30届ACM超文本会议的座右铭与柏林墙倒塌30周年齐头并进。 受到德国历史事件的启发，超文本2019旨在统一不同的超文本研究方向和社区。 因此，除了常规研究课程外，Hypertext 2019还将展示30年超文本以及展览/创意轨道的研究轨道。 2019年也将是WWW成立30周年。 这是一个加入，反映我们共同根源，讨论如何共同应对当前和未来挑战的最佳时机。
 
-The conference will take place at the Institute of Information Systems (iisys) at Hof University, Germany. Hof lies midway between Frankfurt and Prague, Munich and Berlin and is very close to the former German-German border, in particular to the village of Mödlareuth, called "little Berlin", which used to be divided by a wall. After exactly 20 years, Hypertext 2019 will take place in Germany again for the 2nd time. 
+会议将在德国霍夫大学的信息系统研究所（iisys）举行。 霍夫位于法兰克福和布拉格，慕尼黑和柏林之间，非常靠近前德德边境，特别是被称为“小柏林”的Mödlareuth村，曾经被隔离墙隔开。 20年后，超级文本2019将再次在德国举行。
 
-Hypertext 2019 is co-locating with the Adaptivity and User Modeling Workshop (ABIS'19), taking place on Sep 16 at Hof University, and with [ACM Document Engineering Conference (DocEng'19)][3] organized in Berlin, Germany, between Sep 23–16. 
+超文本2019与9月16日在霍夫大学举行的适应性和用户建模研讨会（ABIS'19）以及在德国柏林举办的[ACM文件工程会议（DocEng'19）] [3]共同定位， 9月23日至16日之间。
 
-## ORGANIZATION
+## 组织
 
-General Chairs:
 
-* Claus Atzenbeck, Hof University, Germany ([@clausatz][4]) 
-* Jessica Rubart, OWL University of Applied Sciences, Germany ([@jrubart][5]) 
+普通主席：
 
-Program Chair:
+* Claus Atzenbeck，德国霍夫大学（[@clausatz] [4]）
+* Jessica Rubart，德国OWL应用科技大学（[@jrubart] [5]） 
 
-* David Millard, University of Southampton, UK ([@hoosfoos][6]) 
+课程主席：
 
-Local Arrangements Chair:
+* 大卫·米勒德，英国南安普顿大学（[@hoosfoos] [6]） 
 
-* Anne-Christine Habbel, Hof University, Germany ([@iisys_de][7]) 
+当地安排主席：
 
-Publicity Chair:
+* Anne-Christine Habbel，德国霍夫大学（[@iisys_de] [7]）
 
-Web Chair:
+宣传主席：
 
-* Daniel Roßner, Hof University, Germany ([@dnlrssnr][8]) 
+网络主席：
 
-Proceedings Chair:
+* DanielRoßner，德国霍夫大学（[@dnlrssnr] [8]）
 
-* Yeliz Yesilada, Middle East Technical University, Northern Cyprus ([@yesilady][9]) 
+会议记录主席：
 
-Track Chairs: see below
+* Yeliz幻灯片，北塞浦路斯中东技术大学（[@yesilady] [9]） 
 
-## SUBMISSION CATEGORIES AND DEADLINES
+轨道椅：见下文
 
-Papers must report new results substantiated by experimentation, simulation, analysis, or application. Authors are invited to submit papers presenting original, not previously published works. Art and creative work is also welcome as part of the exhibition/creative track. Submission categories include: 
+## 提交类别和截止日期
 
-_SUBMISSION DEADLINE "REGULAR": 14 April 2019_
+论文必须报告通过实验，模拟，分析或应用证实的新结果。 邀请作者提交论文，展示原创作品，而不是之前发表的作品。 作为展览/创意轨道的一部分，艺术和创意作品也受到欢迎。 提交类别包括： 
 
-* Regular research papers (max 10 pages) discussing mature work. 
-* Short papers (max 5 pages) describing preliminary results of on-going work or novel thought-provoking ideas. 
-* Doctoral consortium submissions (max 4 pages + CV) describing the work of the graduate student and a CV in order to provide some background information about the graduate student. 
+_提交截止日期“定期”：2019年4月14日_
 
-_SUBMISSION DEADLINE "LATE BREAKING/DEMOS/EXHIBITION": 19 May 2019_
+* 定期研究论文（最多10页）讨论成熟的工作。 
+* 简短论文（最多5页），描述正在进行的工作的初步结果或新颖的发人深省的想法。 
+* 博士财团提交（最多4页+简历）描述研究生的工作和简历，以提供有关研究生的一些背景信息。
 
-* Late breaking (max 2 pages, presented as poster) presenting innovative research ideas, or preliminary results. 
-* Demos (max 2 pages) presenting system prototypes or industry showcases. 
-* Exhibition or creative track submissions (max 2 pages) describing the proposed exhibition or creative work. 
+_提交截止日期“最后爆炸/演示/展览”：2019年5月19日_
 
-Accepted submissions will appear in the Hypertext 2019 Conference Proceedings that will be published by ACM via the ACM Digital Library.
+* 最后突破（最多2页，作为海报展示），展示创新的研究思路或初步结果。
+* 演示（最多2页）展示系统原型或行业展示。 
+* 展览或创意轨道提交（最多2页），描述拟议的展览或创意作品。
 
-## CONFERENCE MAIN TRACKS
+接受的提交将出现在ACM会议论文集中，该会议论文集将由ACM通过ACM数字图书馆发布。
 
-### TRACK 1: HYPERTEXT INFRASTRUCTURES AND COMPUTATION
+## 会议主要议程
 
-Track Chair: Manolis Tzagarakis, University of Patras, Greece ([@tzagara][10])
+### 轨迹1：超文本基础设施和计算
 
-This track encourages the submissions of papers on, but is not limited to:
+轨道椅：希腊帕特雷大学Manolis Tzagarakis（[@tzagara] [10]）
+
+该轨道鼓励提交论文，但不限于：
 
 * Hypertext infrastructures 
 * Information structures and architectures 
