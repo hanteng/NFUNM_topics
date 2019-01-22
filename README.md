@@ -14,7 +14,7 @@
 	- [x] [B. call for interactive posters](http://interact2019.org/calls/interactive-posters/)
 	- [ ] [C. call for panels](http://interact2019.org/calls/panels/)
   * [MOBILEHCI 2019 (中译)](./conferences/MOBILEHCI2019_zh-CN.md)，[原文](./conferences/MOBILEHCI2019.md)，來源：
-    - [ ] [A. call for papers](https://mobilehci.acm.org/2019/call-for-papers/)、
+    - [x] [A. call for papers](https://mobilehci.acm.org/2019/call-for-papers/)、
 	- [ ] [B. call for workshops](https://mobilehci.acm.org/2019/call-for-workshops/)
   * [SIGDOC 2019 (中译)](./conferences/SIGDOC2019_zh-CN.md)，[原文](./conferences/SIGDOC2019.md) ，來源：
     - [ ] [Call for Proposals](https://sigdoc.acm.org/conference/2019/call-for-proposals/)
