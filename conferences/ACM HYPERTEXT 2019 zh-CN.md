@@ -2,7 +2,7 @@
 [来源]（https://human.iisys.de/ht2019/call-for-papers/“永久征集论文 -  ACM Hypertext 2019”）
 
 # 征集论文 -  ACM Hypertext 2019
-## ACM HYPERTEXT 2019  - 泪流满面的墙
+## ACM HYPERTEXT 2019  - TEAR DOWN THE WALL
 
 第30届ACM超文本和社交媒体会议（HT'19） 
 2019年9月17日至20日 霍夫，德国
@@ -82,54 +82,54 @@ _提交截止日期“最后爆炸/演示/展览”：2019年5月19日_
 
 该轨道鼓励提交论文，但不限于：
 
-* Hypertext infrastructures 
-* Information structures and architectures 
-* Intelligence in hypertext 
-* Hypertext and data science 
-* Adaptive hypertext frameworks and toolkits 
-* User modeling and personalization 
-* Mobile hypertext systems 
-* Hypermedia information retrieval 
-* Knowledge management and engineering 
-* Decisions support systems 
-* Link computation or predictions 
+* 超文本基础设施
+* 信息结构和架构
+* 超文本智能
+* 超文本和数据科学
+* 自适应超文本框架和工具包 
+* 用户建模和个性化
+* 移动超文本系统
+* 超媒体信息检索
+* 知识管理和工程 
+* 决策支持系统
+* 链接计算或预测 
 
-### TRACK 2: USER INTERFACES AND HYPERTEXT STRUCTURES
+### 第2步：用户界面和超文本结构
 
-Track Chair: Beat Signer, Vrije Universiteit Brussel, Belgium ([@beatsigner][11])
+轨道椅：Beat Signer，Vrije Universiteit Brussel，比利时（[@beatsigner] [11]）
 
-This track encourages the submissions of papers on, but is not limited to:
+该轨道鼓励提交论文，但不限于：
 
-* Interacting with hypertext 
-* Data visualization and navigation 
-* Hypertext structure domains (e.g., node-link structures, spatial hypertext, taxonomic hypertext, argumentation structures) 
-* Interaction devices used in combination with hypertext systems (e.g., VR glasses, smart whiteboards, mobile devices) 
-* Visual analytics and hypertext 
-* User experience 
+* 与超文本交互 
+* 数据可视化和导航 
+* 超文本结构域（例如，节点链接结构，空间超文本，分类超文本，论证结构）
+* 与超文本系统结合使用的交互设备（例如，VR眼镜，智能白板，移动设备）
+* 可视化分析和超文本 
+* 用户体验 
 
-### TRACK 3: WEB AND SOCIAL MEDIA
+### 第3步：网络和社交媒体
 
-Track Chair: Luigi Di Caro, University of Turin, Italy
+赛道主持人：意大利都灵大学Luigi Di Caro
 
-This track encourages the submissions of papers on, but is not limited to:
+该轨道鼓励提交论文，但不限于：
 
-* Semantic web and linked data 
-* Data mining on the Web 
-* Link analysis on the Web 
-* Privacy and trust on the Web 
-* Web security 
-* Crowdsourcing for Web 
-* Web scalability 
-* Link prediction on the Web 
-* Social network analysis 
-* Cultural studies related to the Web 
-* Social media 
+* 语义网和链接数据
+* Web上的数据挖掘 
+* Web上的链接分析
+* 对网络的隐私和信任
+* 网络安全 
+* Web的众包 
+* Web可伸缩性 
+* 在Web上链接预测
+* 社交网络分析
+* 与网络有关的文化研究 
+* 社交媒体 
 
-### TRACK 4: HYPERTEXT LITERATURE, GAMES AND DIGITAL HUMANITIES
+### 第四部分：超文本文学，游戏和数字人文
 
-Track Chair: Jill Walker Rettberg, University of Bergen, Norway ([@jilltxt][12])
+轨道主持人：挪威卑尔根大学Jill Walker Rettberg（[@jilltxt] [12]）
 
-This track encourages the submissions of papers on, but is not limited to:
+该轨道鼓励提交论文，但不限于：
 
 * Hyperfiction and storytelling 
 * Gaming and gamification 
