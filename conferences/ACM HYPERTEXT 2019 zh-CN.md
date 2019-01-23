@@ -131,59 +131,59 @@ _提交截止日期“最后爆炸/演示/展览”：2019年5月19日_
 
 该轨道鼓励提交论文，但不限于：
 
-* Hyperfiction and storytelling 
-* Gaming and gamification 
-* Automated analysis of narratives 
-* Automated story or (semantic) link generation 
-* Hypertext and digital humanities 
-* Digital journalism and citizen/collaborative news 
-* Electronic literature 
-* Hypermedia authoring 
-* Interactive fiction and storytelling 
-* Intelligent narratives 
-* Theory of hypertext narratives 
-* Hypertext and communication theory 
+* 超文本和讲故事
+* 游戏和游戏化
+* 自动分析叙述
+* 自动故事或（语义）链接生成
+* 超文本和数字人文科学
+* 数字新闻和公民/合作新闻
+* 电子文献
+* 超媒体创作
+* 互动小说和讲故事
+* 智能叙事
+* 超文本叙事理论
+* 超文本和通信理论
 
-### TRACK 5: SPECIAL TRACK – 30 YEARS HYPERTEXT
+### 第5步：特殊赛道 -  30年的超级赛道
 
-Track Chair: Peter Nürnberg, USA
+Track Chair：PeterNürnberg，美国
 
-We invite submissions of a broad range of research focusing on reflections on or retrospectives of hypertext approaches and systems. Those should focus on "forgotten" issues, beneficial features, system behavior, or theories that were discovered, but are ignored by current systems. Contributions should be visionary and discuss those old ideas with a strong focus on today's information systems; they should conclude where and to which extent previously discovered ideas would enhance our current or future applications. 
+我们邀请提交广泛的研究，重点是对超文本方法和系统的反思或回顾。 这些应该集中在被发现的“被遗忘”问题，有益特征，系统行为或理论上，但是被当前系统忽略。 贡献应该是有远见的，并讨论那些旧的想法，重点关注当今的信息系统; 他们应该总结先前发现的想法在何处以及在何种程度上会增强我们当前或未来的应用。
 
-## ADDITIONAL TRACKS
+## 附加路径
 
-### POSTER SESSION
+### 海报会议
 
-Chair: Ujwal Gadiraju, L3S Research Center, Germany ([@UjLaw][13])
+主持人：德国L3S研究中心Ujwal Gadiraju（[@UjLaw] [13]）
 
-Posters and demos will be presented during the conference. They target research and showcases in the above mentioned areas.
+会议期间将出示海报和演示。 他们的目标是上述领域的研究和展示。
 
-### EXHIBITION/CREATIVE TRACK
+### 展览/创意轨道
 
-Chair: Mark Bernstein, Eastgate Systems, Inc., USA ([@eastgate][14])  
-Curator: Dene Grigar, Washington State University Vancouver, USA ([@dgrigar][15])
+主持人：美国Eastgate Systems公司的Mark Bernstein（[@eastgate] [14]）
+策展人：美国温哥华华盛顿州立大学Dene Grigar（[@ dgrigar] [15]）
 
-The conference will include a creative track and exhibition, with readings and performances, workshops, demonstrations of both novel and historical systems, and innovative new work in electronic art and literature.
+会议将包括一个创造性的轨道和展览, 包括阅读和表演、讲习班、小说和历史系统的演示, 以及电子艺术和文学方面的创新新作品。
 
-For the creative track, we invite submissions from all disciplines that engage with the expressive potential of hypertext, the link, and of social media-particularly those that address the conference theme of "tear down the wall".
+对于创意轨道，我们邀请所有学科提交有关超文本，链接和社交媒体的表达潜力的提交 - 特别是那些涉及“拆除墙”会议主题的提交。
 
-The curated exhibition seeks hypertextual works of any length that explore new artistic forms, or that respond to or engage with older electronic literature. We are especially interested in location-aware and locative work that can be read in or near the conference site. We are open to work on any platform. Questions regarding creative work for the exhibition may be addressed to the curator.
+策划展览寻求任何长度的超文本作品，探索新的艺术形式，或回应或参与旧的电子文学。 我们对可在会场内或附近阅读的位置感知和定位工作特别感兴趣。 我们愿意在任何平台上工作。 有关展览创意作品的问题可以向策展人提出。
 
-Limited travel funds and bursaries may be available, as well as assistance and support for installation on site. Proposals for papers, panels, master-classes, workshops, and creative work for the exhibition should be submitted by 19 May 2019. 
+可提供有限的旅行资金和助学金，以及现场安装的协助和支持。 应在2019年5月19日之前提交有关展览的论文，小组，大师班，研讨会和创意作品的提案。 
 
 ### DOCTORAL COLLOQUIUM
 
-Chair: Ethan Munson, University of Wisconsin Milwaukee, USA
+主持人：美国威斯康辛大学密尔沃基分校的Ethan Munson
 
-This track is specific for graduate students (PhD or Master). They can present their work and receive immediate and valuable feedback from experts. 
+此曲目专门针对研究生（博士或硕士）。 他们可以展示自己的作品，并从专家那里获得即时有价值的反馈
 
-### WORKSHOPS
+### 工作室
 
-Co-Chairs:  
-Mark Anderson, University of Southampton, UK ([@mwra][16])  
-Giuseppe Abrami, Goethe University Frankfurt, Germany
+联合主席：
+马克安德森，英国南安普顿大学（[@mwra] [16]）
+朱塞佩·阿布拉米，德国法兰克福歌德大学
 
-The HT'19 workshops are described by their own CfP.
+HT'19研讨会由他们自己的CfP描述。
 
 [1]: https://twitter.com/ACMHT
 [2]: https://twitter.com/hashtag/acmht19?src=hash
